@@ -1,0 +1,18 @@
+{
+  "cards": [
+    {
+      "text": [
+        "Первый квартал самый топ! <br />Мощно открыли сезон!",
+        "Во втором квартале была жара. <br />Весна вдохновляет!",
+        "Wow, вы видели третий квартал? <br />Урожайный выдался сезон!",
+        "Вот это разгон <br />в четвертом квартале! <br />Красивый заход в 2025 год!"
+      ],
+      "content": [
+        "<div class='card-1__circle-2'></div><div class='card-1__paint'></div><div class='card-1__circle-1'></div><div class='card-1__mountain'></div><div class='card-1__snowman'></div><div class='card-1__snow'></div>",
+        "<div class='card-1__money'></div><div class='card-1__circle-3'></div><div class='card-1__like'></div>",
+        "<div class='card-1__circle-4'></div><div class='card-1__circle-5'></div><div class='card-1__banknote-1'></div><div class='card-1__banknote-2'></div><div class='card-1__banknote-3'></div><div class='card-1__barrow'></div>",
+        "<div class='card-1__car'></div>"
+      ]
+    }
+  ]
+}

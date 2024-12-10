@@ -1,0 +1,746 @@
+{
+  "webmasters": [
+    {
+      "id": 1,
+      "name": "166890",
+      "quartersPercent": {
+        "1": 9.1,
+        "2": 98.3,
+        "3": 100,
+        "4": 17.7
+      },
+      "maxQuarter": 3,
+      "newOffers": 69
+    },
+    {
+      "id": 2,
+      "name": "167036",
+      "quartersPercent": {
+        "1": 1.7,
+        "2": 75.8,
+        "3": 100,
+        "4": 64
+      },
+      "maxQuarter": 3,
+      "newOffers": 62
+    },
+    {
+      "id": 3,
+      "name": "167122",
+      "quartersPercent": {
+        "1": 5.5,
+        "2": 71.7,
+        "3": 100,
+        "4": 36.1
+      },
+      "maxQuarter": 3,
+      "newOffers": 36
+    },
+    {
+      "id": 4,
+      "name": "169389",
+      "quartersPercent": {
+        "1": 0,
+        "2": 3,
+        "3": 100,
+        "4": 8.4
+      },
+      "maxQuarter": 3,
+      "newOffers": 6
+    },
+    {
+      "id": 5,
+      "name": "169713",
+      "quartersPercent": {
+        "1": 0,
+        "2": 0,
+        "3": 88.7,
+        "4": 100
+      },
+      "maxQuarter": 4,
+      "newOffers": 12
+    },
+    {
+      "id": 6,
+      "name": "Adgaming",
+      "quartersPercent": {
+        "1": 32.9,
+        "2": 42,
+        "3": 100,
+        "4": 22.1
+      },
+      "maxQuarter": 3,
+      "newOffers": 20
+    },
+    {
+      "id": 7,
+      "name": "AstralAff",
+      "quartersPercent": {
+        "1": 100,
+        "2": 56.9,
+        "3": 49.5,
+        "4": 39.2
+      },
+      "maxQuarter": 1,
+      "newOffers": 15
+    },
+    {
+      "id": 8,
+      "name": "Chef Team",
+      "quartersPercent": {
+        "1": 56.6,
+        "2": 73.6,
+        "3": 100,
+        "4": 56.4
+      },
+      "maxQuarter": 3,
+      "newOffers": 300
+    },
+    {
+      "id": 9,
+      "name": "Curka Limited",
+      "quartersPercent": {
+        "1": 39.7,
+        "2": 16.5,
+        "3": 100,
+        "4": 59.9
+      },
+      "maxQuarter": 3,
+      "newOffers": 10
+    },
+    {
+      "id": 10,
+      "name": "desercom",
+      "quartersPercent": {
+        "1": 71.3,
+        "2": 47.8,
+        "3": 100,
+        "4": 13.9
+      },
+      "maxQuarter": 3,
+      "newOffers": 12
+    },
+    {
+      "id": 11,
+      "name": "Dollar",
+      "quartersPercent": {
+        "1": 1.4,
+        "2": 26.5,
+        "3": 100,
+        "4": 5.7
+      },
+      "maxQuarter": 3,
+      "newOffers": 16
+    },
+    {
+      "id": 12,
+      "name": "Emorvalentin",
+      "quartersPercent": {
+        "1": 100,
+        "2": 27.3,
+        "3": 22.7,
+        "4": 9.9
+      },
+      "maxQuarter": 1,
+      "newOffers": 13
+    },
+    {
+      "id": 13,
+      "name": "Fellow's",
+      "quartersPercent": {
+        "1": 100,
+        "2": 10.2,
+        "3": 0.6,
+        "4": 94.3
+      },
+      "maxQuarter": 1,
+      "newOffers": 4
+    },
+    {
+      "id": 14,
+      "name": "GipsyLand",
+      "quartersPercent": {
+        "1": 100,
+        "2": 6.4,
+        "3": 1.2,
+        "4": 86
+      },
+      "maxQuarter": 1,
+      "newOffers": 15
+    },
+    {
+      "id": 15,
+      "name": "icqadvert",
+      "quartersPercent": {
+        "1": 12.6,
+        "2": 48.3,
+        "3": 100,
+        "4": 7.6
+      },
+      "maxQuarter": 3,
+      "newOffers": 3
+    },
+    {
+      "id": 16,
+      "name": "INCITE",
+      "quartersPercent": {
+        "1": 0,
+        "2": 0,
+        "3": 32.1,
+        "4": 100
+      },
+      "maxQuarter": 4,
+      "newOffers": 0
+    },
+    {
+      "id": 17,
+      "name": "Lopan",
+      "quartersPercent": {
+        "1": 15.6,
+        "2": 12.3,
+        "3": 100,
+        "4": 42.7
+      },
+      "maxQuarter": 3,
+      "newOffers": 19
+    },
+    {
+      "id": 18,
+      "name": "Marlon",
+      "quartersPercent": {
+        "1": 0.4,
+        "2": 12.4,
+        "3": 100,
+        "4": 74.7
+      },
+      "maxQuarter": 3,
+      "newOffers": 28
+    },
+    {
+      "id": 19,
+      "name": "mobdevprom",
+      "quartersPercent": {
+        "1": 100,
+        "2": 52.2,
+        "3": 36.9,
+        "4": 9.7
+      },
+      "maxQuarter": 1,
+      "newOffers": 115
+    },
+    {
+      "id": 20,
+      "name": "posekunchiki",
+      "quartersPercent": {
+        "1": 68,
+        "2": 90.2,
+        "3": 100,
+        "4": 46.1
+      },
+      "maxQuarter": 3,
+      "newOffers": 105
+    },
+    {
+      "id": 21,
+      "name": "Prague Marketing",
+      "quartersPercent": {
+        "1": 100,
+        "2": 87.7,
+        "3": 60.9,
+        "4": 27.5
+      },
+      "maxQuarter": 1,
+      "newOffers": 55
+    },
+    {
+      "id": 22,
+      "name": "rahvalskiy",
+      "quartersPercent": {
+        "1": 98.3,
+        "2": 69.8,
+        "3": 100,
+        "4": 42
+      },
+      "maxQuarter": 3,
+      "newOffers": 17
+    },
+    {
+      "id": 23,
+      "name": "senatuspopulus",
+      "quartersPercent": {
+        "1": 66.8,
+        "2": 100,
+        "3": 99.5,
+        "4": 46.9
+      },
+      "maxQuarter": 2,
+      "newOffers": 41
+    },
+    {
+      "id": 24,
+      "name": "sportbets",
+      "quartersPercent": {
+        "1": 80.4,
+        "2": 100,
+        "3": 81.4,
+        "4": 23.6
+      },
+      "maxQuarter": 2,
+      "newOffers": 8
+    },
+    {
+      "id": 25,
+      "name": "Syndicate",
+      "quartersPercent": {
+        "1": 88.6,
+        "2": 58.8,
+        "3": 100,
+        "4": 34.5
+      },
+      "maxQuarter": 3,
+      "newOffers": 88
+    },
+    {
+      "id": 26,
+      "name": "Temnyy",
+      "quartersPercent": {
+        "1": 100,
+        "2": 41.8,
+        "3": 59.1,
+        "4": 21.1
+      },
+      "maxQuarter": 1,
+      "newOffers": 6
+    },
+    {
+      "id": 27,
+      "name": "toronto",
+      "quartersPercent": {
+        "1": 0,
+        "2": 0,
+        "3": 100,
+        "4": 84.3
+      },
+      "maxQuarter": 3,
+      "newOffers": 8
+    },
+    {
+      "id": 28,
+      "name": "Traffic Devils Kiev",
+      "quartersPercent": {
+        "1": 48.5,
+        "2": 89.4,
+        "3": 100,
+        "4": 21.4
+      },
+      "maxQuarter": 3,
+      "newOffers": 152
+    },
+    {
+      "id": 29,
+      "name": "Traffic Devils Sem",
+      "quartersPercent": {
+        "1": 79.3,
+        "2": 100,
+        "3": 97,
+        "4": 47.3
+      },
+      "maxQuarter": 2,
+      "newOffers": 12
+    },
+    {
+      "id": 30,
+      "name": "TrafficSquad",
+      "quartersPercent": {
+        "1": 100,
+        "2": 45.3,
+        "3": 43.6,
+        "4": 3.2
+      },
+      "maxQuarter": 1,
+      "newOffers": 15
+    },
+    {
+      "id": 31,
+      "name": "Traffter",
+      "quartersPercent": {
+        "1": 36.8,
+        "2": 39.4,
+        "3": 100,
+        "4": 38.4
+      },
+      "maxQuarter": 3,
+      "newOffers": 15
+    },
+    {
+      "id": 32,
+      "name": "traffter2",
+      "quartersPercent": {
+        "1": 0,
+        "2": 34.6,
+        "3": 100,
+        "4": 80
+      },
+      "maxQuarter": 3,
+      "newOffers": 11
+    },
+    {
+      "id": 33,
+      "name": "vd-40",
+      "quartersPercent": {
+        "1": 32.1,
+        "2": 38.6,
+        "3": 100,
+        "4": 40.4
+      },
+      "maxQuarter": 3,
+      "newOffers": 12
+    },
+    {
+      "id": 34,
+      "name": "wakeapp",
+      "quartersPercent": {
+        "1": 0,
+        "2": 0,
+        "3": 100,
+        "4": 24.1
+      },
+      "maxQuarter": 3,
+      "newOffers": 14
+    },
+    {
+      "id": 35,
+      "name": "WWL",
+      "quartersPercent": {
+        "1": 100,
+        "2": 35.8,
+        "3": 65.1,
+        "4": 6.5
+      },
+      "maxQuarter": 1,
+      "newOffers": 14
+    },
+    {
+      "id": 36,
+      "name": "YellowApp",
+      "quartersPercent": {
+        "1": 0,
+        "2": 0,
+        "3": 13.4,
+        "4": 100
+      },
+      "maxQuarter": 4,
+      "newOffers": 3
+    },
+    {
+      "id": 37,
+      "name": "ZMteam new",
+      "quartersPercent": {
+        "1": 57.3,
+        "2": 100,
+        "3": 14.1,
+        "4": 3.9
+      },
+      "maxQuarter": 2,
+      "newOffers": 27
+    },
+    {
+      "id": 38,
+      "name": "Zorka",
+      "quartersPercent": {
+        "1": 13.2,
+        "2": 41.1,
+        "3": 100,
+        "4": 53.2
+      },
+      "maxQuarter": 3,
+      "newOffers": 14
+    },
+    {
+      "id": 39,
+      "name": "Шевчук",
+      "quartersPercent": {
+        "1": 100,
+        "2": 56.1,
+        "3": 60.8,
+        "4": 36.4
+      },
+      "maxQuarter": 1,
+      "newOffers": 1
+    }
+  ],
+  "offers": [
+    {
+      "8878 Goldenbet [hybrid] [WW] 166890": 219190.9544872072,
+      "10425 Quickwin - [Hybrid] - [FR] - [SEO 166890]": 47281.8605382188,
+      "10392 RubyVegas [hybrid] [FR] SEO 166890 2 position": 33211.3911263179,
+      "10404 Lucky Treasure - [CPA] - [FR (+islands)] [SEO, PPC] [Hybrid] Private": 23198.672,
+      "10889 Rizz casino [hybrid] [FR] [SEO] 166890": 19044.1534851451
+    },
+    {
+      "11063 Malina Casino [CPA] [SEO, PPC] [GR, CZ, PL]": 60363.437765951,
+      "9297 BetRiot - [CPA] - [DE, IT, GR, FR, ES] [SEO, PPC] [Casino]": 23243.0405487426,
+      "11462 Slotmonster [CPA] [PPC SEO] [UK NL]": 22513.6353298848,
+      "10043 Oshi Casino - [AU] - brand SEO": 13058.4001213599,
+      "10401 Verde Casino [SEO]": 9368.1230369591
+    },
+    {
+      "10414 Slotmonster [CPA] [SEO] [UK] 167122": 1318525.5067044727,
+      "11262 InstantCasino [CPA] - [SEO] [UK] [167122] high": 320193.6768096713,
+      "10794 CasinoWays - [CPA] - [UK] [SEO] private": 305854.2266785598,
+      "10836 Incognito casino [CPA] [SEO] [UK] 167122": 231491.6271373553,
+      "10824 InstantCasino [CPA] - [SEO] [UK] [167122]": 178604.8681652368
+    },
+    {
+      "8539 PremierBet [CPA] [MZ MW ML AO TG ZW GA]": 27520,
+      "10230 PariDirect - [CPA] - [CD, CG] [private for delayed conversions]": 8653.5186411867,
+      "11122 Powbet - [CPA] - [DE] - [FB apps]": 3923.672534012,
+      "11749 Spinsy [CPA][FB][FR CZ IT DE ES HU PT]": 2464.0909087004,
+      "11155 1xBet [CPA]": 840
+    },
+    {
+      "11511 Olabahis - [CPA] - [TR] - [рассылки]": 3493.5285865223,
+      "12128 Slottica - [CPA] - [PL] [Рассылки]": 3300,
+      "11794 Parabet [CPA][TR][SMS Android]": 3240,
+      "11512 Asyabahis - [CPA] - [TR] - [рассылки]": 2294.7932323024,
+      "11510 Maltcasino - [CPA] - [TR] - [рассылки]": 1378.7937977755
+    },
+    {
+      "9755 Liga Stavok - [CPA] - [RU] TG/контекст": 19980.2180400636,
+      "9719 Fonbet - [CPA] - [RU] - Telegram + капперы": 18155.2843837795,
+      "7896 Winline [CPA] [NEW]": 17439.9764500095,
+      "10536 DBbet - [CPA] - [RU, KZ] - [TG, FB]": 14920,
+      "11444 Odds96 - [CPA] - [IN] [Influence] [Private - 165385]": 9355
+    },
+    {
+      "10124 QuickWin - [CPA] - [ES] - [FB]": 6680.464300891,
+      "10284 Spinanga - [CPA] - [FR, ES, IT, AU, NO, CA, HU, GR, NZ, AT, CZ, FI, DE, CH, PL, SK] [FB, UAC, In-app, ASO]": 5406.9491696297,
+      "9749 Wild Dice Casino - [CPA] - [DE, ES, FR, UK, BE, AT, IE, CH] - [FB, UAC]": 4509.9384581244,
+      "9288 5Gringos - [CPA] [AU, CH, DE, AT, IT, CZ, GR, AE, KW, OM, SA, QA, BH, CL, LT, MX, NO, PE, ES, CL, LT, MX, NO, PE, ES, HU] [FB, UAC, ASO]": 4509.1388958737,
+      "11062 Tsars - [CPA] - [ES IT] - [FB apps]": 3540.3819714011
+    },
+    {
+      "6964 PinUp - [RU UA KZ AZ UZ IN BR TR PE BD MX CA] - [CPA]": 4664810.75,
+      "6685 1xBet [Private]": 3855862,
+      "11187 Reko Casino - [CPA] - [SE] - [151280 private]": 1135031.8300226436,
+      "11585 JackpotCow - [CPA] - [SE] - [private 151280]": 1063541.8113005194,
+      "11362 Slothype - [CPA] - [SE] - [private 151280]": 923721.6086247218
+    },
+    {
+      "11119 Rooli - [CPA] [AE] [FB] private": 28512.3795790575,
+      "9658 Spinfever - [CPA] [CH, AT, CA, AU, IT, AE, DE]": 22541.6384598122,
+      "8898 Verde Casino [FB UAС]": 12740,
+      "5639 YYY-Casino - CPA - AE, SA, KW, QA, OM, BH, EG": 11300,
+      "8834 Magic Win - [CPA] - [UK] 164764": 6182.7537319152
+    },
+    {
+      "10155 Betsat [CPA] [BR] bl 5 euro": 26224.0060708082,
+      "11332 Spinsy - [CPA] - [DE CH CZ] - [FB apps]": 5078.6951232807,
+      "10906 Golden Reels - CPA [AU] [FB UAC TT]": 3520,
+      "11300 Rebellion Casino - [CPA] - [NO, CA, IT, IE, DE, AT, CH, DK] - [FB apps/UAC/ASO]": 3022.2048401912,
+      "12247 TheClubHouse - [CPA] - [CA, NZ] [FB Apps]": 2940
+    },
+    {
+      "10301 Joker8 - [CPA] - [CZ] - [FB apps]": 20261.2448374514,
+      "9266 QuickWin - [CPA] - [FR] - [FB]": 13352.2244413037,
+      "9487 SultanGames [CPA] [KZ] [FB]": 8185,
+      "11014 SGCasino - [CPA] - [BE, NO, SL, CA, CH, AT, DE, IT, ES, FR, CZ] - [TOP] - [private] - casino/betting": 4814.6763531284,
+      "10688 MyEmpire [CPA] [CZ] [SEO FB]": 3897.4499384441
+    },
+    {
+      "8813 Betboom Casino ASO [BR] [Private]": 91752,
+      "10122 Betboom [BR] [Mindep] [Casino] [ASO]": 9420,
+      "9800 Blaze Casino - [CPA] - [BR, CL, MX, PE]": 8718.147897139,
+      "9716 1xBet [CPA]": 6315,
+      "10341 20bet - [CPA] [CL, PE, AR] [ASO/FB]": 3253.1570350276
+    },
+    {
+      "11974 Melbet [CPA]": 3965,
+      "11436 1xBet [CPA]": 3289,
+      "8539 PremierBet [CPA] [MZ MW ML AO TG ZW GA]": 2821,
+      "10083 Melbet [CPA] [DUPLICATED]": 2250,
+      "10110 WinWinbet [CPA] [AZ KZ EG BD UZ RU IN KG PK BR]": 2183
+    },
+    {
+      "12127 1xbet [155676] [ID]": 11838,
+      "9974 Pokie Spins - [CPA] - [AU] [PPC, SEO, ASO, FB, UAC]": 10014.0811127074,
+      "9993 Bons - [CPA] - [BR] - [UAC/FB]": 9420,
+      "11436 1xBet [CPA]": 5135,
+      "11974 Melbet [CPA]": 2345
+    },
+    {
+      "10269 Granawin - [CPA] - [BR] общие ключи [private]": 29439.0729154274,
+      "10122 Betboom [BR] [Mindep] [Casino] [ASO]": 16637,
+      "8539 PremierBet [CPA] [MZ MW ML AO TG ZW GA]": 13916,
+      "10155 Betsat [CPA] [BR] bl 5 euro": 4098.7791767353,
+      "11502 Granawin - [CPA] - [PT] [FB]": 2663.7229402359
+    },
+    {
+      "8519 Mostbet [Сasino] - [CPA] [IN AZ UZ PL CZ PT HU EG KG MA GR BY TR]": 10550,
+      "10269 Granawin - [CPA] - [BR] общие ключи [private]": 3265.1823247934,
+      "10268 Granawin - [CPA] - [BR] кросс ключи [private]": 1720.2357477905,
+      "10110 WinWinbet [CPA] [AZ KZ EG BD UZ RU IN KG PK BR]": 1480,
+      "11847 Abebet [CPA] [TR] [FBApps iOS]": 1450
+    },
+    {
+      "8476 Melbet [CPA] [private]": 244500,
+      "7849 1xBet [CPA] [private]": 188468.7999999996,
+      "8539 PremierBet [CPA] [MZ MW ML AO TG ZW GA]": 27334,
+      "10960 Wazamba - [CPA] - [SA, AE, KW, BH] [FB apps]": 18889.5595470091,
+      "9893 1xCasino [FB, UAC, ASO, SEO] [UZ BD EG KG KR KZ CI]": 18669
+    },
+    {
+      "11503 Granawin - [CPA] - [CA] [FB]": 13012.9783884487,
+      "11577 Luckyliner - [CPA] - [CA] - [FB/ASO/PPC/SEO]": 10705,
+      "8811 LuckyDreams [CPA] - [AU CH AT AE DE CA NZ NO DK FI IE] [FB UAC]": 8967.3032480449,
+      "8915 Limewin [APPS] [FR]": 8960,
+      "11862 Lazybar - [CPA] - [ES, DE, AT, CH, BE] - [FB apps/ASO]": 7605.7336142769
+    },
+    {
+      "9716 1xBet [CPA]": 769510,
+      "10704 1xBet [only 777]": 194560,
+      "10294 1win [166940 / 167192] [RU, IN, CI, BF, TR]": 129130,
+      "10188 BDM Bet - [CPA] - [CH, ES, DE, AT, IT, CZ, HU, SK, SI, NO, GR, DK, BE, BG, RO, PT, PL, CA, IE, AU] [iOS - ASO, FB, UAC, InApp]": 69362.1079281989,
+      "6450 20BET - [ASO] - [CZ, HU, ES, GR, DE, AT, CH, IT, PT, PL, CA, IN, DK, RO, UZ, NO]": 62960
+    },
+    {
+      "11197 Lucky Hunter - [CPA] - [AU] - [81218 private] NEW": 87421.1325075774,
+      "6526 Bizzo Casino - [PPC] - [AU, CA, ES, IT, GR, PL, HU, PT, DE]": 75405,
+      "10372 Rooli - [CPA] [AU AE SA] [PPC SEO]": 69040.6261038025,
+      "10229 Granawin - [CPA] - [BR] TOP [private]": 67843.495326235,
+      "9842 Moonwin - [CPA] - [AU] [PPC]": 66471.4378299306
+    },
+    {
+      "8490 Bruno Casino - [CPA] - [NL, FR] [FB, UAC, InApp Android]": 56107.8715140821,
+      "10301 Joker8 - [CPA] - [CZ] - [FB apps]": 48567.9269857136,
+      "10366 BetOnRed - [CPA] - [AU, SK, SI, BE, NO, HU, DE, PT, BR, PL, CH, CZ, GR, DK, FR, ES, IT, CA, AT, RO] [FB, UAC, InApp - Android]": 46134.9510936692,
+      "10202 Let's Lucky [CPA] - [DK, SE, CH, NZ, DE, AT, NO]": 41310.7148773907,
+      "8811 LuckyDreams [CPA] - [AU CH AT AE DE CA NZ NO DK FI IE] [FB UAC]": 31562.7286034879
+    },
+    {
+      "9905 Kent - [CPA] - [RU] SEO": 115240,
+      "9345 1win [150434] [RS]": 97149.7443999998,
+      "11508 Kometa - [CPA] - [RU] [TOP private]": 61560,
+      "10644 R7 - [CPA] - [RU] [SEO]": 53270,
+      "10950 Kent - [CPA] - [RU] [SEO Cross]": 51805
+    },
+    {
+      "7550 Yebostar Casino - [CPA] - [ZA]": 23221,
+      "10284 Spinanga - [CPA] - [FR, ES, IT, AU, NO, CA, HU, GR, NZ, AT, CZ, FI, DE, CH, PL, SK] [FB, UAC, In-app, ASO]": 22394.4205477234,
+      "10197 Betsat [CPA] [BR] sub3 bl 5 euro": 17378.9769506773,
+      "10051 Frumzi - [CPA] - [CH, DE, CA, IE, AT, NO, IT, FR, AU, FI, GR, NZ, ES, PL, CZ, HU, LV, SK, SI, MX, CL, PE, AE, PT, BE] [FB, UAC, ASO] sub3": 14100.5788293751,
+      "10091 LeoVegas - CPA [CA] [DUPLICATED]": 13131.0069641112
+    },
+    {
+      "11179 Fonbet - [RU] - [CPA]- [ЦУПИС] - [149584 private]": 117336.7284651986,
+      "4997 Fonbet legal - [CPA] - [RU] - SEO/PPC/SOCIAL/ASO BRAND": 114763.1936989919,
+      "9905 Kent - [CPA] - [RU] SEO": 77675,
+      "9755 Liga Stavok - [CPA] - [RU] TG/контекст": 44370.8338435624,
+      "9344 Gama casino - [CPA] - [RU] [PPC]": 20995
+    },
+    {
+      "8898 Verde Casino [FB UAС]": 549760,
+      "9610 Casinia - [CPA] - [FR, ES, IT, AU, NO, CA, HU, GR, NZ, AT, CH, CZ, FI, DE, CL, PE, SI, IE]": 104974.8576951441,
+      "10118 Brazino777 - [CPA] - [BR] - 164221": 62873,
+      "11332 Spinsy - [CPA] - [DE CH CZ] - [FB apps]": 62743.126137823,
+      "8473 Verde Casino [APPS]": 50073.8388705232
+    },
+    {
+      "277 Casino-X - CPA [RU] - SEO, ASO, PPC": 198730,
+      "10750 Vovan casino [RU] [CPA] [SEO] brand 148715": 10575,
+      "5639 YYY-Casino - CPA - AE, SA, KW, QA, OM, BH, EG": 7600,
+      "11949 Casino-X - CPA [RU] - [SEO private 148715]": 7400,
+      "8477 Melbet [CPA]": 3240
+    },
+    {
+      "11231 Yebostar Casino - [CPA] - [ZA] 169456": 20843,
+      "11436 1xBet [CPA]": 9550,
+      "9974 Pokie Spins - [CPA] - [AU] [PPC, SEO, ASO, FB, UAC]": 4240.8725713128,
+      "11887 VooDoo - [CPA] - [NZ] - [FB PWA]": 3382.3910373967,
+      "10906 Golden Reels - CPA [AU] [FB UAC TT]": 3040
+    },
+    {
+      "10402 Verde Casino [ASO]": 70499.1413738393,
+      "8275 LeoVegas - CPA [NZ, CA, IT] [PPC, SEO, ASO] no bl": 60580.7582343907,
+      "10189 BDM Bet - [CPA] - [CH, ES, DE, AT, IT, CZ, HU, SK, SI, NO, GR, DK, BE, BG, RO, PT, PL, CA, IE, AU] [Android - ASO, FB, UAC, InApp]": 39437.0428833268,
+      "11155 1xBet [CPA]": 29896,
+      "10293 1xBet [CPA]": 26162
+    },
+    {
+      "11517 Lamabet [CPA] [IE GR IT] [ASO]": 13635.9708611625,
+      "10122 Betboom [BR] [Mindep] [Casino] [ASO]": 13290,
+      "10293 1xBet [CPA]": 10812,
+      "10015 Betboom Casino [Mindep] [BR] [PPC]": 8505,
+      "8477 Melbet [CPA]": 7019
+    },
+    {
+      "10015 Betboom Casino [Mindep] [BR] [PPC]": 133984,
+      "10269 Granawin - [CPA] - [BR] общие ключи [private]": 41530.7116792821,
+      "9694 4RAbet -  [IN] [PPC]": 31530,
+      "10268 Granawin - [CPA] - [BR] кросс ключи [private]": 15392.364983254,
+      "11086 Cashed - [CPA] - [ES, FR, DE, AT, CH, BE, CA] - [FB apps]": 11917.7906136541
+    },
+    {
+      "11086 Cashed - [CPA] - [ES, FR, DE, AT, CH, BE, CA] - [FB apps]": 19599.4794266152,
+      "9964 Batery - [CPA] - [BD] [FB apps] TOP": 11275,
+      "9266 QuickWin - [CPA] - [FR] - [FB]": 8540.5084437907,
+      "11332 Spinsy - [CPA] - [DE CH CZ] - [FB apps]": 5230.9565101523,
+      "11862 Lazybar - [CPA] - [ES, DE, AT, CH, BE] - [FB apps/ASO]": 4842.0185372095
+    },
+    {
+      "11862 Lazybar - [CPA] - [ES, DE, AT, CH, BE] - [FB apps/ASO]": 7920.9835287658,
+      "11033 Casinia - [CPA] - [IT, ES] [FB] [Private - 169035]": 6504.3734285707,
+      "11134 Malina Casino [CPA] [FB] [CZ IT HU PL SI]": 5239.7793221862,
+      "11932 Avo Casino - [CPA] - [DE, CA] - [FB, ASO]": 5215.6147249619,
+      "11731 BitKingz [CPA] [CA, DE, DK, CH] [FB]": 4603.6058474226
+    },
+    {
+      "8811 LuckyDreams [CPA] - [AU CH AT AE DE CA NZ NO DK FI IE] [FB UAC]": 25373.1483414126,
+      "12080 BetRiot - [CPA] - [AT, FR, DE, IT, CH, PT, GR] - [FB apps]": 3360,
+      "11332 Spinsy - [CPA] - [DE CH CZ] - [FB apps]": 3139.0056040514,
+      "11456 LuckyDreams [CPA] [CA] [FB] 155639": 2736.9594706264,
+      "12034 Felixspin [CPA][Android][DE AT CH]": 2642.4225848173
+    },
+    {
+      "9292 AmunRa - [CPA] [CH, DE, AT, GR, AE, KW, OM, SA, QA, BH, MX, CL, FI, LT, NO, ES, HU, CA] [FB, UAC, ASO]": 9343.2138636498,
+      "10230 PariDirect - [CPA] - [CD, CG] [private for delayed conversions]": 8596.3945898775,
+      "11332 Spinsy - [CPA] - [DE CH CZ] - [FB apps]": 6168.5141169615,
+      "11571 Fairspin - [CPA] - [PT] - [FB apps]": 2625,
+      "8539 PremierBet [CPA] [MZ MW ML AO TG ZW GA]": 2414
+    },
+    {
+      "11000 Lukki [CPA] [AT, SE, NO, DK, CH, IE, CA, DE] [SEO, ASO, PPC, FB, UAC]": 7394.5050400831,
+      "8539 PremierBet [CPA] [MZ MW ML AO TG ZW GA]": 4147,
+      "10175 Golden Pokies - [CPA] - [AU] [PPC, SEO, ASO, FB, UAC]": 3657.8892603964,
+      "9974 Pokie Spins - [CPA] - [AU] [PPC, SEO, ASO, FB, UAC]": 2606.7845342587,
+      "10177 Pokiez - [CPA] - [AU] [PPC, SEO, ASO, FB, UAC]": 2254.2769331702
+    },
+    {
+      "11577 Luckyliner - [CPA] - [CA] - [FB/ASO/PPC/SEO]": 11880,
+      "7445 Slottica - CPA [PL] [SEO/ASO/PPC/FB/UAC/In-app]": 2990,
+      "12244 Malina - [CPA] - [BE] [FB Apps]": 2160,
+      "11974 Melbet [CPA]": 564,
+      "12240 Spinanga - [CPA] - [AT] [FB Apps]": 140
+    },
+    {
+      "9266 QuickWin - [CPA] - [FR] - [FB]": 161230.4606305405,
+      "9438 MrBet - [CPA] - [CA] - [FB, UAC, ASO] Exclusive": 55650,
+      "10378 Bankonbet - [CPA] - [CZ, HU, PT, ES] - [FB]": 8808.5142612588,
+      "10653 Casinoly - [CPA] - [GR, HU, IE] - [FB apps]": 7214.8908933675,
+      "8557 Royal Panda - CPA [NZ, CA] [UAC, FB] no bl": 5332.7090774685
+    },
+    {
+      "11332 Spinsy - [CPA] - [DE CH CZ] - [FB apps]": 11461.8974196528,
+      "8811 LuckyDreams [CPA] - [AU CH AT AE DE CA NZ NO DK FI IE] [FB UAC]": 5285.4632815561,
+      "10657 ParadisePlay - [CPA] - [NL] - [FB]": 4602.0545741217,
+      "11571 Fairspin - [CPA] - [PT] - [FB apps]": 2000,
+      "12247 TheClubHouse - [CPA] - [CA, NZ] [FB Apps]": 1800
+    },
+    {
+      "8899 Verde Casino [ASO]": 740600,
+      "6154 PinUp - [CPA] - [RU] - [Casino]": 386.704,
+      "7089 PinUp - CPA - [Private|all target geos]": 236.04,
+      "6451 National - [ASO] - [CH, DE, AT, CZ, GR, ES, HU, CA, AU, IT, IE, PT, PL]": 0
+    }
+  ]
+}
