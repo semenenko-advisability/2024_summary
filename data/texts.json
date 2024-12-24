@@ -1,0 +1,259 @@
+{
+  "cards": [
+    {
+      "text": [
+        "Первый квартал самый топ! <br />Мощно открыли сезон!",
+        "Во втором квартале была жара. <br />Весна вдохновляет!",
+        "Wow, вы видели третий квартал? <br />Урожайный выдался сезон!",
+        "Вот это разгон <br />в четвертом квартале! <br />Красивый заход в 2025 год!"
+      ],
+      "content": [
+        "<div class='card-1__img-1'></div>",
+        "<div class='card-1__img-2'></div><div class='card-1__like'></div>",
+        "<div class='card-1__img-3'></div>",
+        "<div class='card-1__car'></div>"
+      ]
+    },
+    {
+      "text": [
+        "Втопим в 2025 году?",
+        "Уверенно двигаемся <br />к вершинам!",
+        "Это прорыв!"
+      ],
+      "content": [
+        "<div class='card-2__clouds'></div><div class='card-2__img-1'></div>",
+        "<div class='card-2__clouds'></div><div class='card-2__img-2'></div>",
+        "<div class='card-2__clouds'></div><div class='card-2__img-3'></div>"
+      ]
+    },
+    {
+      "text": [
+        "Главное — не количество, <br />а качество",
+        "Идеальный баланс",
+        "Wow, это было круто <br />Экспериментатор!"
+      ]
+    },
+    {},
+    {
+      "country": {
+        "FR": {
+          "name": "Франция!",
+          "text": "О-ля-ля, вот это профит!",
+          "content": "<div class='card-5__img-fr'></div>"
+        },
+        "GR": {
+          "name": "Греция",
+          "text": "Зевс в шоке",
+          "content": "<div class='card-5__img-gr'></div>"
+        },
+        "GB": {
+          "name": "Британия",
+          "text": "Вы топ, сэр!",
+          "content": "<div class='card-5__img-gb'></div>"
+        },
+        "AE": {
+          "name": "ОАЭ",
+          "text": "Растете быстрее небоскребов",
+          "content": "<div class='card-5__img-ae'></div>"
+        },
+        "MZ": {
+          "name": "Мозамбик",
+          "text": "Жара!",
+          "content": "<div class='card-5__img-mz'></div>"
+        },
+        "TR": {
+          "name": "Турция",
+          "text": "Мерхаба, успех!",
+          "content": "<div class='card-5__img-tr'></div>"
+        },
+        "ES": {
+          "name": "Испания",
+          "text": "По бокалу сангрии за успех!",
+          "content": "<div class='card-5__img-es'></div>"
+        },
+        "BR": {
+          "name": "Бразилия",
+          "text": "Растете в ритме самбы!",
+          "content": "<div class='card-5__img-br'></div>"
+        },
+        "CZ": {
+          "name": "Чехия",
+          "text": "Ящик “Крушовице” <br />этим господам!",
+          "content": "<div class='card-5__img-cz'></div>"
+        },
+        "EG": {
+          "name": "Египет",
+          "text": "Лара Крофт одобряет",
+          "content": "<div class='card-5__img-eg'></div>"
+        },
+        "CA": {
+          "name": "Канада",
+          "text": "That's awesome, eh?",
+          "content": "<div class='card-5__img-ca'></div>"
+        },
+        "IN": {
+          "name": "Индия",
+          "text": "Танцуют все!",
+          "content": "<div class='card-5__img-in'></div>"
+        },
+        "AU": {
+          "name": "Австралия",
+          "text": "¡ɯɐɯqvʎεǝd ņıqнҺиvɯО",
+          "content": "<div class='card-5__img-au'></div>"
+        },
+        "DE": {
+          "name": "Германия",
+          "text": "Das ist fantastisch!",
+          "content": "<div class='card-5__img-de'></div>"
+        },
+        "ZA": {
+          "name": "ЮАР",
+          "text": "Не гео, а бриллиант!",
+          "content": "<div class='card-5__img-za'></div>"
+        },
+        "IT": {
+          "name": "Италия",
+          "text": "Белиссимо! ",
+          "content": "<div class='card-5__img-it'></div>"
+        },
+        "KR": {
+          "name": "Южная Корея",
+          "text": "Полный Gangnam Style!",
+          "content": "<div class='card-5__img-kr'></div>"
+        },
+        "ID": {
+          "name": "Индонезия",
+          "text": "Остров принял!",
+          "content": "<div class='card-5__img-id'></div>"
+        },
+        "SE": {
+          "name": "Швеция",
+          "text": "Заслужили Нобелевскую <br />премию по профиту!",
+          "content": "<div class='card-5__img-se'></div>"
+        },
+        "FI": {
+          "name": "Финляндия",
+          "text": "Горячее, чем в сауне!",
+          "content": "<div class='card-5__img-fi'></div>"
+        },
+        "UA": {
+          "name": "Украина",
+          "text": "UAу, чудовий результат!",
+          "content": "<div class='card-5__img-ua'></div>"
+        }
+      }
+    },
+    {},
+    {
+      "months": [
+        "Январь",
+        "Февраль",
+        "Март",
+        "Апрель",
+        "Май",
+        "Июнь",
+        "Июль",
+        "Август",
+        "Сентябрь",
+        "Октябрь",
+        "Ноябрь",
+        "Декабрь"
+      ],
+      "content": [
+        "<div class='card-7__img-1'></div>",
+        "<div class='card-7__img-2'></div>",
+        "<div class='card-7__img-3'></div>",
+        "<div class='card-7__img-4'></div>"
+      ]
+    },
+    {
+      "text1": "Вооот столько <br />бигмаков",
+      "text2": "или...",
+      "slide1": [
+        {
+          "content": "<div class='card-8__img card-8__img-1-1'></div><div class='card-8__img card-8__img-1-1-stars'></div>"
+        },
+        {
+          "content": "<div class='card-8__img card-8__img-1-2'></div><div class='card-8__img card-8__img-1-2-stars'></div>"
+        },
+        {
+          "content": "<div class='card-8__img card-8__img-1-3'></div><div class='card-8__img card-8__img-1-3-stars'></div>"
+        }
+      ],
+      "slide2": [
+        {
+          "text": "Билеты Rich Bitch <br />на BIG Conference",
+          "content": "<div class='card-8__img card-8__img-2-1'></div></div><div class='card-8__img card-8__img-2-1-stars'></div>"
+        },
+        {
+          "text": "Здоровенный кусок <br />Теслы",
+          "content": "<div class='card-8__img card-8__img-2-2'></div></div><div class='card-8__img card-8__img-2-2-stars'></div>"
+        },
+        {
+          "text": "Персональная запись <br />с симфоническим <br />оркестром",
+          "content": "<div class='card-8__img card-8__img-2-3'></div></div><div class='card-8__img card-8__img-2-3-stars'></div>"
+        },
+        {
+          "text": "Крыло самолета",
+          "content": "<div class='card-8__img card-8__img-2-4'></div></div><div class='card-8__img card-8__img-2-4-stars'></div>"
+        },
+        {
+          "text": "Молекулы <br />антивещества",
+          "content": "<div class='card-8__img card-8__img-2-5'></div></div><div class='card-8__img card-8__img-2-5-stars'></div>"
+        }
+      ]
+    },
+    {
+      "managers": [
+        {
+          "name": "ВЕРА",
+          "skill": "Эмпатия",
+          "text": "Чтобы работать <br />с вебмастером, нужно <br />думать, как вебмастер",
+          "content": "<div class='card-9__img card-9__img-1'></div><span class='card-9__label'></span>"
+        },
+        {
+          "name": "РУСЛАН",
+          "skill": "Переговоры",
+          "text": "Интересный факт: для Руслана <br />выражение “не нашли общий <br />язык” лишено смысла",
+          "content": "<div class='card-9__img card-9__img-2'></div><span class='card-9__label'></span>"
+        },
+        {
+          "name": "ВЬЕТ",
+          "skill": "Аналитика",
+          "text": "Лучший сон Вьета — <br />тот, где он анализирует <br />потоки партнеров",
+          "content": "<div class='card-9__img card-9__img-3'></div><span class='card-9__label'></span>"
+        },
+        {
+          "name": "КАТЯ",
+          "skill": "Проактивность",
+          "text": "Когда вы еще <br />не допечатали сообщение, <br />а вам уже ответили",
+          "content": "<div class='card-9__img card-9__img-4'></div><span class='card-9__label'></span>"
+        },
+        {
+          "name": "РУСЛАН",
+          "skill": "Знание рынка",
+          "text": "Предлагает сделки, <br />от которых невозможно <br />отказаться",
+          "content": "<div class='card-9__img card-9__img-5'></div><span class='card-9__label'></span>"
+        },
+        {
+          "name": "ВАСИЛИНА",
+          "skill": "Перфекционизм",
+          "text": "Кажется, у Василины <br />даже есть тату “Perfection <br />knows no limits”",
+          "content": "<div class='card-9__img card-9__img-6'></div><span class='card-9__label'></span>"
+        },
+        {
+          "name": "ВАДИМ",
+          "skill": "Экспертность",
+          "text": "А вы знали, что у Вадима <br />есть Master’s Degree <br />по гемблингу?",
+          "content": "<div class='card-9__img card-9__img-7'></div><span class='card-9__label'></span>"
+        },
+        {
+          "name": "АЛЕКСЕЙ",
+          "skill": "Знание рынка",
+          "text": "Предлагает сделки, <br />от которых невозможно <br />отказаться",
+          "content": "<div class='card-9__img card-9__img-8'></div><span class='card-9__label'></span>"
+        }
+      ]
+    }
+  ]
+}
