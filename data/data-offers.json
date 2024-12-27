@@ -1,0 +1,885 @@
+{
+  "webmasters": [
+    {
+      "id": 1,
+      "name": "166890",
+      "quartersPercent": {
+        "1": 9.1,
+        "2": 98.3,
+        "3": 100,
+        "4": 17.7
+      },
+      "maxQuarter": 3,
+      "newOffers": 69,
+      "growPercent": 15147,
+      "geo": [
+        "FR",
+        "AU",
+        "BE",
+        "CH",
+        "GB"
+      ],
+      "topOffer": "Goldenbet",
+      "topOfferCategory": "hybrid",
+      "managerId": 2
+    },
+    {
+      "id": 2,
+      "name": "167036",
+      "quartersPercent": {
+        "1": 1.7,
+        "2": 75.8,
+        "3": 100,
+        "4": 64
+      },
+      "maxQuarter": 3,
+      "newOffers": 62,
+      "growPercent": null,
+      "geo": [
+        "GR",
+        "GB",
+        "DE",
+        "AU",
+        "NL"
+      ],
+      "topOffer": "Malina Casino",
+      "topOfferCategory": "CPA",
+      "managerId": 3
+    },
+    {
+      "id": 3,
+      "name": "167122",
+      "quartersPercent": {
+        "1": 5.5,
+        "2": 71.7,
+        "3": 100,
+        "4": 36.1
+      },
+      "maxQuarter": 3,
+      "newOffers": 36,
+      "growPercent": null,
+      "geo": [
+        "GB",
+        "IE",
+        "AU"
+      ],
+      "topOffer": "Slotmonster",
+      "topOfferCategory": "CPA",
+      "managerId": 3
+    },
+    {
+      "id": 4,
+      "name": "169389",
+      "quartersPercent": {
+        "1": 0,
+        "2": 3,
+        "3": 100,
+        "4": 8.4
+      },
+      "maxQuarter": 3,
+      "newOffers": 6,
+      "growPercent": null,
+      "geo": [
+        "MZ",
+        "CG",
+        "DE",
+        "CD",
+        "PH"
+      ],
+      "topOffer": "PremierBet",
+      "topOfferCategory": "CPA",
+      "managerId": 1
+    },
+    {
+      "id": 5,
+      "name": "169713",
+      "quartersPercent": {
+        "1": 0,
+        "2": 0,
+        "3": 88.7,
+        "4": 100
+      },
+      "maxQuarter": 4,
+      "newOffers": 12,
+      "growPercent": null,
+      "geo": [
+        "TR",
+        "PL",
+        "GB",
+        "DE",
+        "NL"
+      ],
+      "topOffer": "Olabahis",
+      "topOfferCategory": "CPA",
+      "managerId": 6
+    },
+    {
+      "id": 6,
+      "name": "Adgaming",
+      "quartersPercent": {
+        "1": 32.9,
+        "2": 42,
+        "3": 100,
+        "4": 22.1
+      },
+      "maxQuarter": 3,
+      "newOffers": 20,
+      "growPercent": 69,
+      "geo": [
+        "IN",
+        "IT",
+        "GB"
+      ],
+      "topOffer": "Liga Stavok",
+      "topOfferCategory": "CPA",
+      "managerId": 1
+    },
+    {
+      "id": 7,
+      "name": "AstralAff",
+      "quartersPercent": {
+        "1": 100,
+        "2": 56.9,
+        "3": 49.5,
+        "4": 39.2
+      },
+      "maxQuarter": 1,
+      "newOffers": 15,
+      "growPercent": null,
+      "geo": [
+        "ES",
+        "IT",
+        "PL",
+        "CZ",
+        "DE"
+      ],
+      "topOffer": "QuickWin",
+      "topOfferCategory": "CPA",
+      "managerId": 1
+    },
+    {
+      "id": 8,
+      "name": "Chef Team",
+      "quartersPercent": {
+        "1": 56.6,
+        "2": 73.6,
+        "3": 100,
+        "4": 56.4
+      },
+      "maxQuarter": 3,
+      "newOffers": 300,
+      "growPercent": 300,
+      "geo": [
+        "SE",
+        "TR",
+        "AZ"
+      ],
+      "topOffer": "PinUp",
+      "topOfferCategory": "CPA",
+      "managerId": 4
+    },
+    {
+      "id": 9,
+      "name": "Curka Limited",
+      "quartersPercent": {
+        "1": 39.7,
+        "2": 16.5,
+        "3": 100,
+        "4": 59.9
+      },
+      "maxQuarter": 3,
+      "newOffers": 10,
+      "growPercent": null,
+      "geo": [
+        "AE",
+        "AT",
+        "DE",
+        "GB",
+        "DK"
+      ],
+      "topOffer": "Rooli",
+      "topOfferCategory": "CPA",
+      "managerId": 7
+    },
+    {
+      "id": 10,
+      "name": "desercom",
+      "quartersPercent": {
+        "1": 71.3,
+        "2": 47.8,
+        "3": 100,
+        "4": 13.9
+      },
+      "maxQuarter": 3,
+      "newOffers": 12,
+      "growPercent": 875,
+      "geo": [
+        "BR",
+        "CA",
+        "AU",
+        "DE",
+        "GR"
+      ],
+      "topOffer": "Betsat",
+      "topOfferCategory": "CPA",
+      "managerId": 1
+    },
+    {
+      "id": 11,
+      "name": "Dollar",
+      "quartersPercent": {
+        "1": 1.4,
+        "2": 26.5,
+        "3": 100,
+        "4": 5.7
+      },
+      "maxQuarter": 3,
+      "newOffers": 16,
+      "growPercent": 2128,
+      "geo": [
+        "CZ",
+        "FR",
+        "ES",
+        "IE"
+      ],
+      "topOffer": "Joker8",
+      "topOfferCategory": "CPA",
+      "managerId": 5
+    },
+    {
+      "id": 12,
+      "name": "Emorvalentin",
+      "quartersPercent": {
+        "1": 100,
+        "2": 27.3,
+        "3": 22.7,
+        "4": 9.9
+      },
+      "maxQuarter": 1,
+      "newOffers": 13,
+      "growPercent": null,
+      "geo": [
+        "BR",
+        "PE",
+        "MX",
+        "CO",
+        "CL"
+      ],
+      "topOffer": "Betboom Casino",
+      "topOfferCategory": "ASO",
+      "managerId": 7
+    },
+    {
+      "id": 13,
+      "name": "Fellow's",
+      "quartersPercent": {
+        "1": 100,
+        "2": 10.2,
+        "3": 0.6,
+        "4": 94.3
+      },
+      "maxQuarter": 1,
+      "newOffers": 4,
+      "growPercent": 1635,
+      "geo": [
+        "EG",
+        "VN",
+        "ID",
+        "SN",
+        "PH"
+      ],
+      "topOffer": "Melbet",
+      "topOfferCategory": "CPA",
+      "managerId": 6
+    },
+    {
+      "id": 14,
+      "name": "GipsyLand",
+      "quartersPercent": {
+        "1": 100,
+        "2": 6.4,
+        "3": 1.2,
+        "4": 86
+      },
+      "maxQuarter": 1,
+      "newOffers": 15,
+      "growPercent": null,
+      "geo": [
+        "ID",
+        "BR",
+        "AU",
+        "SE"
+      ],
+      "topOffer": "1xbet",
+      "topOfferCategory": "",
+      "managerId": 5
+    },
+    {
+      "id": 15,
+      "name": "icqadvert",
+      "quartersPercent": {
+        "1": 12.6,
+        "2": 48.3,
+        "3": 100,
+        "4": 7.6
+      },
+      "maxQuarter": 3,
+      "newOffers": 3,
+      "growPercent": 61,
+      "geo": [
+        "BR",
+        "MZ",
+        "PT",
+        "MW",
+        "IT"
+      ],
+      "topOffer": "Granawin",
+      "topOfferCategory": "CPA",
+      "managerId": 7
+    },
+    {
+      "id": 16,
+      "name": "INCITE",
+      "quartersPercent": {
+        "1": 0,
+        "2": 0,
+        "3": 32.1,
+        "4": 100
+      },
+      "maxQuarter": 4,
+      "newOffers": 0,
+      "growPercent": null,
+      "geo": [
+        "BR",
+        "EG",
+        "TR",
+        "MY"
+      ],
+      "topOffer": "Mostbet",
+      "topOfferCategory": "CPA",
+      "managerId": 6
+    },
+    {
+      "id": 17,
+      "name": "Lopan",
+      "quartersPercent": {
+        "1": 15.6,
+        "2": 12.3,
+        "3": 100,
+        "4": 42.7
+      },
+      "maxQuarter": 3,
+      "newOffers": 19,
+      "growPercent": 457,
+      "geo": [
+        "EG",
+        "KG",
+        "PK",
+        "MZ",
+        "AE"
+      ],
+      "topOffer": "Melbet",
+      "topOfferCategory": "CPA",
+      "managerId": 4
+    },
+    {
+      "id": 18,
+      "name": "Marlon",
+      "quartersPercent": {
+        "1": 0.4,
+        "2": 12.4,
+        "3": 100,
+        "4": 74.7
+      },
+      "maxQuarter": 3,
+      "newOffers": 28,
+      "growPercent": 8384,
+      "geo": [
+        "CA",
+        "ES",
+        "FR",
+        "PL",
+        "BR"
+      ],
+      "topOffer": "Granawin",
+      "topOfferCategory": "CPA",
+      "managerId": 2
+    },
+    {
+      "id": 19,
+      "name": "mobdevprom",
+      "quartersPercent": {
+        "1": 100,
+        "2": 52.2,
+        "3": 36.9,
+        "4": 9.7
+      },
+      "maxQuarter": 1,
+      "newOffers": 115,
+      "growPercent": 488,
+      "geo": [
+        "IN",
+        "KR",
+        "MA",
+        "FR",
+        "EG"
+      ],
+      "topOffer": "1xBet",
+      "topOfferCategory": "CPA",
+      "managerId": 7
+    },
+    {
+      "id": 20,
+      "name": "posekunchiki",
+      "quartersPercent": {
+        "1": 68,
+        "2": 90.2,
+        "3": 100,
+        "4": 46.1
+      },
+      "maxQuarter": 3,
+      "newOffers": 105,
+      "growPercent": 134,
+      "geo": [
+        "AU",
+        "BR",
+        "MX",
+        "CO",
+        "TR"
+      ],
+      "topOffer": "Lucky Hunter",
+      "topOfferCategory": "CPA",
+      "managerId": 4
+    },
+    {
+      "id": 21,
+      "name": "Prague Marketing",
+      "quartersPercent": {
+        "1": 100,
+        "2": 87.7,
+        "3": 60.9,
+        "4": 27.5
+      },
+      "maxQuarter": 1,
+      "newOffers": 55,
+      "growPercent": 89,
+      "geo": [
+        "CZ",
+        "NL",
+        "CA",
+        "DK",
+        "SE"
+      ],
+      "topOffer": "Bruno Casino",
+      "topOfferCategory": "CPA",
+      "managerId": 1
+    },
+    {
+      "id": 22,
+      "name": "rahvalskiy",
+      "quartersPercent": {
+        "1": 98.3,
+        "2": 69.8,
+        "3": 100,
+        "4": 42
+      },
+      "maxQuarter": 3,
+      "newOffers": 17,
+      "growPercent": 1613,
+      "geo": [
+        "FI",
+        "BY",
+        "UZ"
+      ],
+      "topOffer": "Kent",
+      "topOfferCategory": "CPA",
+      "managerId": 2
+    },
+    {
+      "id": 23,
+      "name": "senatuspopulus",
+      "quartersPercent": {
+        "1": 66.8,
+        "2": 100,
+        "3": 99.5,
+        "4": 46.9
+      },
+      "maxQuarter": 2,
+      "newOffers": 41,
+      "growPercent": 163,
+      "geo": [
+        "BR",
+        "IT",
+        "ZA",
+        "NZ",
+        "CZ"
+      ],
+      "topOffer": "Yebostar Casino",
+      "topOfferCategory": "CPA",
+      "managerId": 8
+    },
+    {
+      "id": 24,
+      "name": "sportbets",
+      "quartersPercent": {
+        "1": 80.4,
+        "2": 100,
+        "3": 81.4,
+        "4": 23.6
+      },
+      "maxQuarter": 2,
+      "newOffers": 8,
+      "growPercent": 639,
+      "geo": [
+        "UA"
+      ],
+      "topOffer": "Fonbet",
+      "topOfferCategory": "CPA",
+      "managerId": 2
+    },
+    {
+      "id": 25,
+      "name": "Syndicate",
+      "quartersPercent": {
+        "1": 88.6,
+        "2": 58.8,
+        "3": 100,
+        "4": 34.5
+      },
+      "maxQuarter": 3,
+      "newOffers": 88,
+      "growPercent": 85,
+      "geo": [
+        "DE",
+        "SE",
+        "BR",
+        "DK",
+        "IT"
+      ],
+      "topOffer": "Verde Casino",
+      "topOfferCategory": "",
+      "managerId": 2
+    },
+    {
+      "id": 26,
+      "name": "Temnyy",
+      "quartersPercent": {
+        "1": 100,
+        "2": 41.8,
+        "3": 59.1,
+        "4": 21.1
+      },
+      "maxQuarter": 1,
+      "newOffers": 6,
+      "growPercent": 21,
+      "geo": [
+        "AE",
+        "EG",
+        "SA",
+        "FR"
+      ],
+      "topOffer": "Casino-X",
+      "topOfferCategory": "hybrid",
+      "managerId": 4
+    },
+    {
+      "id": 27,
+      "name": "toronto",
+      "quartersPercent": {
+        "1": 0,
+        "2": 0,
+        "3": 100,
+        "4": 84.3
+      },
+      "maxQuarter": 3,
+      "newOffers": 8,
+      "growPercent": null,
+      "geo": [
+        "ZA",
+        "PH",
+        "AU",
+        "NZ",
+        "BR"
+      ],
+      "topOffer": "Yebostar Casino",
+      "topOfferCategory": "CPA",
+      "managerId": 8
+    },
+    {
+      "id": 28,
+      "name": "Traffic Devils Kiev",
+      "quartersPercent": {
+        "1": 48.5,
+        "2": 89.4,
+        "3": 100,
+        "4": 21.4
+      },
+      "maxQuarter": 3,
+      "newOffers": 152,
+      "growPercent": 30,
+      "geo": [
+        "IT",
+        "FR",
+        "ES",
+        "BR",
+        "NL"
+      ],
+      "topOffer": "Verde Casino",
+      "topOfferCategory": "ASO",
+      "managerId": 2
+    },
+    {
+      "id": 29,
+      "name": "Traffic Devils Sem",
+      "quartersPercent": {
+        "1": 79.3,
+        "2": 100,
+        "3": 97,
+        "4": 47.3
+      },
+      "maxQuarter": 2,
+      "newOffers": 12,
+      "growPercent": null,
+      "geo": [
+        "BR",
+        "IE",
+        "EG",
+        "LT",
+        "GR"
+      ],
+      "topOffer": "Lamabet",
+      "topOfferCategory": "CPA",
+      "managerId": 2
+    },
+    {
+      "id": 30,
+      "name": "TrafficSquad",
+      "quartersPercent": {
+        "1": 100,
+        "2": 45.3,
+        "3": 43.6,
+        "4": 3.2
+      },
+      "maxQuarter": 1,
+      "newOffers": 15,
+      "growPercent": 65,
+      "geo": [
+        "BR",
+        "IN",
+        "ES",
+        "FR"
+      ],
+      "topOffer": "Betboom Casino",
+      "topOfferCategory": "",
+      "managerId": 7
+    },
+    {
+      "id": 31,
+      "name": "Traffter",
+      "quartersPercent": {
+        "1": 36.8,
+        "2": 39.4,
+        "3": 100,
+        "4": 38.4
+      },
+      "maxQuarter": 3,
+      "newOffers": 15,
+      "growPercent": 323,
+      "geo": [
+        "FR",
+        "DE",
+        "BD",
+        "BE",
+        "CM"
+      ],
+      "topOffer": "Cashed",
+      "topOfferCategory": "CPA",
+      "managerId": 3
+    },
+    {
+      "id": 32,
+      "name": "traffter2",
+      "quartersPercent": {
+        "1": 0,
+        "2": 34.6,
+        "3": 100,
+        "4": 80
+      },
+      "maxQuarter": 3,
+      "newOffers": 11,
+      "growPercent": null,
+      "geo": [
+        "CA",
+        "DE",
+        "CZ",
+        "IT",
+        "ES"
+      ],
+      "topOffer": "Lazybar",
+      "topOfferCategory": "CPA",
+      "managerId": 8
+    },
+    {
+      "id": 33,
+      "name": "vd-40",
+      "quartersPercent": {
+        "1": 32.1,
+        "2": 38.6,
+        "3": 100,
+        "4": 40.4
+      },
+      "maxQuarter": 3,
+      "newOffers": 12,
+      "growPercent": 6756,
+      "geo": [
+        "CA",
+        "DE",
+        "FR",
+        "BR",
+        "AT"
+      ],
+      "topOffer": "LuckyDreams",
+      "topOfferCategory": "CPA",
+      "managerId": 1
+    },
+    {
+      "id": 34,
+      "name": "wakeapp",
+      "quartersPercent": {
+        "1": 0,
+        "2": 0,
+        "3": 100,
+        "4": 24.1
+      },
+      "maxQuarter": 3,
+      "newOffers": 14,
+      "growPercent": null,
+      "geo": [
+        "IT",
+        "DE",
+        "CG",
+        "CD",
+        "MZ"
+      ],
+      "topOffer": "AmunRa",
+      "topOfferCategory": "CPA",
+      "managerId": 3
+    },
+    {
+      "id": 35,
+      "name": "WWL",
+      "quartersPercent": {
+        "1": 100,
+        "2": 35.8,
+        "3": 65.1,
+        "4": 6.5
+      },
+      "maxQuarter": 1,
+      "newOffers": 14,
+      "growPercent": 504,
+      "geo": [
+        "AU",
+        "AT",
+        "MZ",
+        "CM"
+      ],
+      "topOffer": "Lukki",
+      "topOfferCategory": "CPA",
+      "managerId": 1
+    },
+    {
+      "id": 36,
+      "name": "YellowApp",
+      "quartersPercent": {
+        "1": 0,
+        "2": 0,
+        "3": 13.4,
+        "4": 100
+      },
+      "maxQuarter": 4,
+      "newOffers": 3,
+      "growPercent": null,
+      "geo": [
+        "CA",
+        "PL",
+        "BE",
+        "SN",
+        "AT"
+      ],
+      "topOffer": "Luckyline",
+      "topOfferCategory": "CPA",
+      "managerId": 5
+    },
+    {
+      "id": 37,
+      "name": "ZMteam new",
+      "quartersPercent": {
+        "1": 57.3,
+        "2": 100,
+        "3": 14.1,
+        "4": 3.9
+      },
+      "maxQuarter": 2,
+      "newOffers": 27,
+      "growPercent": null,
+      "geo": [
+        "FR",
+        "CA",
+        "ES",
+        "IE",
+        "NZ"
+      ],
+      "topOffer": "QuickWin",
+      "topOfferCategory": "CPA",
+      "managerId": 4
+    },
+    {
+      "id": 38,
+      "name": "Zorka",
+      "quartersPercent": {
+        "1": 13.2,
+        "2": 41.1,
+        "3": 100,
+        "4": 53.2
+      },
+      "maxQuarter": 3,
+      "newOffers": 14,
+      "growPercent": 48,
+      "geo": [
+        "DE",
+        "NL",
+        "CA",
+        "PT",
+        "NZ"
+      ],
+      "topOffer": "Spinsy",
+      "topOfferCategory": "CPA",
+      "managerId": 6
+    },
+    {
+      "id": 39,
+      "name": "Шевчук",
+      "quartersPercent": {
+        "1": 100,
+        "2": 56.1,
+        "3": 60.8,
+        "4": 36.4
+      },
+      "maxQuarter": 1,
+      "newOffers": 1,
+      "growPercent": 506,
+      "geo": [
+        "DE",
+        "RO",
+        "SE"
+      ],
+      "topOffer": "Verde Casino",
+      "topOfferCategory": "ASO",
+      "managerId": 7
+    }
+  ],
+  "offers": [],
+  "geo": [
+    []
+  ]
+}

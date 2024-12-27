@@ -1,0 +1,826 @@
+{
+  "webmasters": [
+    {
+      "id": 1,
+      "name": "166890",
+      "maxQuarter": 3,
+      "newOffers": 69,
+      "growPercent": 15147,
+      "geo": [
+        "FR",
+        "AU",
+        "BE",
+        "CH",
+        "GB"
+      ],
+      "topOffer": "Goldenbet",
+      "topOfferCategory": "hybrid",
+      "topMonth": 8,
+      "bigmacVariation": 2,
+      "otherVariation": 2,
+      "managerId": 2,
+      "hash": "localhost:3000/-Nkz1KTvEtXLboO"
+    },
+    {
+      "id": 2,
+      "name": "167036",
+      "maxQuarter": 3,
+      "newOffers": 62,
+      "growPercent": null,
+      "geo": [
+        "GR",
+        "GB",
+        "DE",
+        "AU",
+        "NL"
+      ],
+      "topOffer": "Malina Casino",
+      "topOfferCategory": "CPA",
+      "topMonth": 6,
+      "bigmacVariation": 1,
+      "otherVariation": 1,
+      "managerId": 3,
+      "hash": "localhost:3000/5I1NBP86aS-tcuf"
+    },
+    {
+      "id": 3,
+      "name": "167122",
+      "maxQuarter": 3,
+      "newOffers": 36,
+      "growPercent": null,
+      "geo": [
+        "GB",
+        "IE",
+        "AU"
+      ],
+      "topOffer": "Slotmonster",
+      "topOfferCategory": "CPA",
+      "topMonth": 8,
+      "bigmacVariation": 3,
+      "otherVariation": 4,
+      "managerId": 3,
+      "hash": "localhost:3000/ytklNrhg5U6-ELZ"
+    },
+    {
+      "id": 4,
+      "name": "169389",
+      "maxQuarter": 3,
+      "newOffers": 6,
+      "growPercent": null,
+      "geo": [
+        "MZ",
+        "CG",
+        "DE",
+        "CD",
+        "PH"
+      ],
+      "topOffer": "PremierBet",
+      "topOfferCategory": "CPA",
+      "topMonth": 8,
+      "bigmacVariation": 1,
+      "otherVariation": 1,
+      "managerId": 1,
+      "hash": "localhost:3000/kvMXeHUm70RsQC-"
+    },
+    {
+      "id": 5,
+      "name": "169713",
+      "maxQuarter": 4,
+      "newOffers": 12,
+      "growPercent": null,
+      "geo": [
+        "TR",
+        "PL",
+        "GB",
+        "DE",
+        "NL"
+      ],
+      "topOffer": "Olabahis",
+      "topOfferCategory": "CPA",
+      "topMonth": 10,
+      "bigmacVariation": 1,
+      "otherVariation": 1,
+      "managerId": 6,
+      "hash": "localhost:3000/_TKQYQhndnnF5d_"
+    },
+    {
+      "id": 6,
+      "name": "Adgaming",
+      "maxQuarter": 3,
+      "newOffers": 20,
+      "growPercent": 69,
+      "geo": [
+        "IN",
+        "IT",
+        "GB"
+      ],
+      "topOffer": "Liga Stavok",
+      "topOfferCategory": "CPA",
+      "topMonth": 8,
+      "bigmacVariation": 1,
+      "otherVariation": 1,
+      "managerId": 1,
+      "hash": "localhost:3000/xx1xq9AJH5LhO_g"
+    },
+    {
+      "id": 7,
+      "name": "AstralAff",
+      "maxQuarter": 1,
+      "newOffers": 15,
+      "growPercent": null,
+      "geo": [
+        "ES",
+        "IT",
+        "PL",
+        "CZ",
+        "DE"
+      ],
+      "topOffer": "QuickWin",
+      "topOfferCategory": "CPA",
+      "topMonth": 3,
+      "bigmacVariation": 1,
+      "otherVariation": 1,
+      "managerId": 1,
+      "hash": "localhost:3000/huuewzdnTUp-0sL"
+    },
+    {
+      "id": 8,
+      "name": "Chef Team",
+      "maxQuarter": 3,
+      "newOffers": 300,
+      "growPercent": 300,
+      "geo": [
+        "SE",
+        "TR",
+        "AZ"
+      ],
+      "topOffer": "PinUp",
+      "topOfferCategory": "CPA",
+      "topMonth": 8,
+      "bigmacVariation": 3,
+      "otherVariation": 5,
+      "managerId": 4,
+      "hash": "localhost:3000/GDPUzKE84z_a2GF"
+    },
+    {
+      "id": 9,
+      "name": "Curka Limited",
+      "maxQuarter": 3,
+      "newOffers": 10,
+      "growPercent": null,
+      "geo": [
+        "AE",
+        "AT",
+        "DE",
+        "GB",
+        "DK"
+      ],
+      "topOffer": "Rooli",
+      "topOfferCategory": "CPA",
+      "topMonth": 8,
+      "bigmacVariation": 1,
+      "otherVariation": 1,
+      "managerId": 7,
+      "hash": "localhost:3000/jx-6rNUlwfryOQh"
+    },
+    {
+      "id": 10,
+      "name": "desercom",
+      "maxQuarter": 3,
+      "newOffers": 12,
+      "growPercent": 875,
+      "geo": [
+        "BR",
+        "CA",
+        "AU",
+        "DE",
+        "GR"
+      ],
+      "topOffer": "Betsat",
+      "topOfferCategory": "CPA",
+      "topMonth": 3,
+      "bigmacVariation": 1,
+      "otherVariation": 1,
+      "managerId": 1,
+      "hash": "localhost:3000/IefnRbLgzPv7-s7"
+    },
+    {
+      "id": 11,
+      "name": "Dollar",
+      "maxQuarter": 3,
+      "newOffers": 16,
+      "growPercent": 2128,
+      "geo": [
+        "CZ",
+        "FR",
+        "ES",
+        "IE"
+      ],
+      "topOffer": "Joker8",
+      "topOfferCategory": "CPA",
+      "topMonth": 8,
+      "bigmacVariation": 1,
+      "otherVariation": 1,
+      "managerId": 5,
+      "hash": "localhost:3000/IP7HBtFHpK7D_ci"
+    },
+    {
+      "id": 12,
+      "name": "Emorvalentin",
+      "maxQuarter": 1,
+      "newOffers": 13,
+      "growPercent": null,
+      "geo": [
+        "BR",
+        "PE",
+        "MX",
+        "CO",
+        "CL"
+      ],
+      "topOffer": "Betboom Casino",
+      "topOfferCategory": "ASO",
+      "topMonth": 1,
+      "bigmacVariation": 1,
+      "otherVariation": 1,
+      "managerId": 7,
+      "hash": "localhost:3000/sLpv4gtU_Zd_pYb"
+    },
+    {
+      "id": 13,
+      "name": "Fellow's",
+      "maxQuarter": 1,
+      "newOffers": 4,
+      "growPercent": 1635,
+      "geo": [
+        "EG",
+        "VN",
+        "ID",
+        "SN",
+        "PH"
+      ],
+      "topOffer": "Melbet",
+      "topOfferCategory": "CPA",
+      "topMonth": 10,
+      "bigmacVariation": 1,
+      "otherVariation": 1,
+      "managerId": 6,
+      "hash": "localhost:3000/uneOvN8NO-rBXlu"
+    },
+    {
+      "id": 14,
+      "name": "GipsyLand",
+      "maxQuarter": 1,
+      "newOffers": 15,
+      "growPercent": null,
+      "geo": [
+        "ID",
+        "BR",
+        "AU",
+        "SE"
+      ],
+      "topOffer": "1xbet",
+      "topOfferCategory": "",
+      "topMonth": 2,
+      "bigmacVariation": 1,
+      "otherVariation": 1,
+      "managerId": 5,
+      "hash": "localhost:3000/6nv9sbTWY5Bdf_F"
+    },
+    {
+      "id": 15,
+      "name": "icqadvert",
+      "maxQuarter": 3,
+      "newOffers": 3,
+      "growPercent": 61,
+      "geo": [
+        "BR",
+        "MZ",
+        "PT",
+        "MW",
+        "IT"
+      ],
+      "topOffer": "Granawin",
+      "topOfferCategory": "CPA",
+      "topMonth": 8,
+      "bigmacVariation": 1,
+      "otherVariation": 1,
+      "managerId": 7,
+      "hash": "localhost:3000/NJ8oT5241er8uj-"
+    },
+    {
+      "id": 16,
+      "name": "INCITE",
+      "maxQuarter": 4,
+      "newOffers": 0,
+      "growPercent": null,
+      "geo": [
+        "BR",
+        "EG",
+        "TR",
+        "MY"
+      ],
+      "topOffer": "Mostbet",
+      "topOfferCategory": "CPA",
+      "topMonth": 11,
+      "bigmacVariation": 1,
+      "otherVariation": 1,
+      "managerId": 6,
+      "hash": "localhost:3000/rnDgSDZG5rss_eG"
+    },
+    {
+      "id": 17,
+      "name": "Lopan",
+      "maxQuarter": 3,
+      "newOffers": 19,
+      "growPercent": 457,
+      "geo": [
+        "EG",
+        "KG",
+        "PK",
+        "MZ",
+        "AE"
+      ],
+      "topOffer": "Melbet",
+      "topOfferCategory": "CPA",
+      "topMonth": 8,
+      "bigmacVariation": 3,
+      "otherVariation": 3,
+      "managerId": 4,
+      "hash": "localhost:3000/CNkYxHT-QBA8F_d"
+    },
+    {
+      "id": 18,
+      "name": "Marlon",
+      "maxQuarter": 3,
+      "newOffers": 28,
+      "growPercent": 8384,
+      "geo": [
+        "CA",
+        "ES",
+        "FR",
+        "PL",
+        "BR"
+      ],
+      "topOffer": "Granawin",
+      "topOfferCategory": "CPA",
+      "topMonth": 8,
+      "bigmacVariation": 1,
+      "otherVariation": 1,
+      "managerId": 2,
+      "hash": "localhost:3000/N-OawTOe0gLDQmA"
+    },
+    {
+      "id": 19,
+      "name": "mobdevprom",
+      "maxQuarter": 1,
+      "newOffers": 115,
+      "growPercent": 488,
+      "geo": [
+        "IN",
+        "KR",
+        "MA",
+        "FR",
+        "EG"
+      ],
+      "topOffer": "1xBet",
+      "topOfferCategory": "CPA",
+      "topMonth": 3,
+      "bigmacVariation": 3,
+      "otherVariation": 4,
+      "managerId": 7,
+      "hash": "localhost:3000/cSmqk7JwhndH_3h"
+    },
+    {
+      "id": 20,
+      "name": "posekunchiki",
+      "maxQuarter": 3,
+      "newOffers": 105,
+      "growPercent": 134,
+      "geo": [
+        "AU",
+        "BR",
+        "MX",
+        "CO",
+        "TR"
+      ],
+      "topOffer": "Lucky Hunter",
+      "topOfferCategory": "CPA",
+      "topMonth": 7,
+      "bigmacVariation": 3,
+      "otherVariation": 3,
+      "managerId": 4,
+      "hash": "localhost:3000/g2-s4Y0X5hLNpKH"
+    },
+    {
+      "id": 21,
+      "name": "Prague Marketing",
+      "maxQuarter": 1,
+      "newOffers": 55,
+      "growPercent": 89,
+      "geo": [
+        "CZ",
+        "NL",
+        "CA",
+        "DK",
+        "SE"
+      ],
+      "topOffer": "Bruno Casino",
+      "topOfferCategory": "CPA",
+      "topMonth": 2,
+      "bigmacVariation": 2,
+      "otherVariation": 2,
+      "managerId": 1,
+      "hash": "localhost:3000/_XRZk0sUvZ7Pvt-"
+    },
+    {
+      "id": 22,
+      "name": "rahvalskiy",
+      "maxQuarter": 3,
+      "newOffers": 17,
+      "growPercent": 1613,
+      "geo": [
+        "FI",
+        "BY",
+        "UZ"
+      ],
+      "topOffer": "Kent",
+      "topOfferCategory": "CPA",
+      "topMonth": 3,
+      "bigmacVariation": 2,
+      "otherVariation": 2,
+      "managerId": 2,
+      "hash": "localhost:3000/X2LFT6cq0TeV_We"
+    },
+    {
+      "id": 23,
+      "name": "senatuspopulus",
+      "maxQuarter": 2,
+      "newOffers": 41,
+      "growPercent": 163,
+      "geo": [
+        "BR",
+        "IT",
+        "ZA",
+        "NZ",
+        "CZ"
+      ],
+      "topOffer": "Yebostar Casino",
+      "topOfferCategory": "CPA",
+      "topMonth": 7,
+      "bigmacVariation": 1,
+      "otherVariation": 1,
+      "managerId": 8,
+      "hash": "localhost:3000/M1xyFXv-b_qvXDJ"
+    },
+    {
+      "id": 24,
+      "name": "sportbets",
+      "maxQuarter": 2,
+      "newOffers": 8,
+      "growPercent": 639,
+      "geo": [
+        "UA"
+      ],
+      "topOffer": "Fonbet",
+      "topOfferCategory": "CPA",
+      "topMonth": 7,
+      "bigmacVariation": 2,
+      "otherVariation": 2,
+      "managerId": 2,
+      "hash": "localhost:3000/rDu-tY6pNDKA-t0"
+    },
+    {
+      "id": 25,
+      "name": "Syndicate",
+      "maxQuarter": 3,
+      "newOffers": 88,
+      "growPercent": 85,
+      "geo": [
+        "DE",
+        "SE",
+        "BR",
+        "DK",
+        "IT"
+      ],
+      "topOffer": "Verde Casino",
+      "topOfferCategory": "",
+      "topMonth": 7,
+      "bigmacVariation": 3,
+      "otherVariation": 4,
+      "managerId": 2,
+      "hash": "localhost:3000/Fl7ZJ7_KVXCV_9Q"
+    },
+    {
+      "id": 26,
+      "name": "Temnyy",
+      "maxQuarter": 1,
+      "newOffers": 6,
+      "growPercent": 21,
+      "geo": [
+        "AE",
+        "EG",
+        "SA",
+        "FR"
+      ],
+      "topOffer": "Casino-X",
+      "topOfferCategory": "hybrid",
+      "topMonth": 2,
+      "bigmacVariation": 1,
+      "otherVariation": 1,
+      "managerId": 4,
+      "hash": "localhost:3000/CG5KVeC_-2F6CBz"
+    },
+    {
+      "id": 27,
+      "name": "toronto",
+      "maxQuarter": 3,
+      "newOffers": 8,
+      "growPercent": null,
+      "geo": [
+        "ZA",
+        "PH",
+        "AU",
+        "NZ",
+        "BR"
+      ],
+      "topOffer": "Yebostar Casino",
+      "topOfferCategory": "CPA",
+      "topMonth": 10,
+      "bigmacVariation": 1,
+      "otherVariation": 1,
+      "managerId": 8,
+      "hash": "localhost:3000/MfvT5T_XLDYkvoU"
+    },
+    {
+      "id": 28,
+      "name": "Traffic Devils Kiev",
+      "maxQuarter": 3,
+      "newOffers": 152,
+      "growPercent": 30,
+      "geo": [
+        "IT",
+        "FR",
+        "ES",
+        "BR",
+        "NL"
+      ],
+      "topOffer": "Verde Casino",
+      "topOfferCategory": "ASO",
+      "topMonth": 6,
+      "bigmacVariation": 3,
+      "otherVariation": 3,
+      "managerId": 2,
+      "hash": "localhost:3000/a5n3s1lev-P0MMc"
+    },
+    {
+      "id": 29,
+      "name": "Traffic Devils Sem",
+      "maxQuarter": 2,
+      "newOffers": 12,
+      "growPercent": null,
+      "geo": [
+        "BR",
+        "IE",
+        "EG",
+        "LT",
+        "GR"
+      ],
+      "topOffer": "Lamabet",
+      "topOfferCategory": "CPA",
+      "topMonth": 5,
+      "bigmacVariation": 1,
+      "otherVariation": 1,
+      "managerId": 2,
+      "hash": "localhost:3000/qYRgeN1PsBp-DwH"
+    },
+    {
+      "id": 30,
+      "name": "TrafficSquad",
+      "maxQuarter": 1,
+      "newOffers": 15,
+      "growPercent": 65,
+      "geo": [
+        "BR",
+        "IN",
+        "ES",
+        "FR"
+      ],
+      "topOffer": "Betboom Casino",
+      "topOfferCategory": "",
+      "topMonth": 2,
+      "bigmacVariation": 2,
+      "otherVariation": 2,
+      "managerId": 7,
+      "hash": "localhost:3000/KhgNwtXEMUL-j02"
+    },
+    {
+      "id": 31,
+      "name": "Traffter",
+      "maxQuarter": 3,
+      "newOffers": 15,
+      "growPercent": 323,
+      "geo": [
+        "FR",
+        "DE",
+        "BD",
+        "BE",
+        "CM"
+      ],
+      "topOffer": "Cashed",
+      "topOfferCategory": "CPA",
+      "topMonth": 8,
+      "bigmacVariation": 1,
+      "otherVariation": 1,
+      "managerId": 3,
+      "hash": "localhost:3000/8-3xyG5P1BmY3Re"
+    },
+    {
+      "id": 32,
+      "name": "traffter2",
+      "maxQuarter": 3,
+      "newOffers": 11,
+      "growPercent": null,
+      "geo": [
+        "CA",
+        "DE",
+        "CZ",
+        "IT",
+        "ES"
+      ],
+      "topOffer": "Lazybar",
+      "topOfferCategory": "CPA",
+      "topMonth": 10,
+      "bigmacVariation": 1,
+      "otherVariation": 1,
+      "managerId": 8,
+      "hash": "localhost:3000/gERnHVSNQ0ONJy_"
+    },
+    {
+      "id": 33,
+      "name": "vd-40",
+      "maxQuarter": 3,
+      "newOffers": 12,
+      "growPercent": 6756,
+      "geo": [
+        "CA",
+        "DE",
+        "FR",
+        "BR",
+        "AT"
+      ],
+      "topOffer": "LuckyDreams",
+      "topOfferCategory": "CPA",
+      "topMonth": 7,
+      "bigmacVariation": 1,
+      "otherVariation": 1,
+      "managerId": 1,
+      "hash": "localhost:3000/iWrv_9qAJLyeNa4"
+    },
+    {
+      "id": 34,
+      "name": "wakeapp",
+      "maxQuarter": 3,
+      "newOffers": 14,
+      "growPercent": null,
+      "geo": [
+        "IT",
+        "DE",
+        "CG",
+        "CD",
+        "MZ"
+      ],
+      "topOffer": "AmunRa",
+      "topOfferCategory": "CPA",
+      "topMonth": 7,
+      "bigmacVariation": 1,
+      "otherVariation": 1,
+      "managerId": 3,
+      "hash": "localhost:3000/bSh5vUFa2HT_rI1"
+    },
+    {
+      "id": 35,
+      "name": "WWL",
+      "maxQuarter": 1,
+      "newOffers": 14,
+      "growPercent": 504,
+      "geo": [
+        "AU",
+        "AT",
+        "MZ",
+        "CM"
+      ],
+      "topOffer": "Lukki",
+      "topOfferCategory": "CPA",
+      "topMonth": 3,
+      "bigmacVariation": 1,
+      "otherVariation": 1,
+      "managerId": 1,
+      "hash": "localhost:3000/r9yMlN-UTE9-Iyg"
+    },
+    {
+      "id": 36,
+      "name": "YellowApp",
+      "maxQuarter": 4,
+      "newOffers": 3,
+      "growPercent": null,
+      "geo": [
+        "CA",
+        "PL",
+        "BE",
+        "SN",
+        "AT"
+      ],
+      "topOffer": "Luckyline",
+      "topOfferCategory": "CPA",
+      "topMonth": 10,
+      "bigmacVariation": 1,
+      "otherVariation": 1,
+      "managerId": 5,
+      "hash": "localhost:3000/_yTGeRtywCpa0lW"
+    },
+    {
+      "id": 37,
+      "name": "ZMteam new",
+      "maxQuarter": 2,
+      "newOffers": 27,
+      "growPercent": null,
+      "geo": [
+        "FR",
+        "CA",
+        "ES",
+        "IE",
+        "NZ"
+      ],
+      "topOffer": "QuickWin",
+      "topOfferCategory": "CPA",
+      "topMonth": 4,
+      "bigmacVariation": 2,
+      "otherVariation": 2,
+      "managerId": 4,
+      "hash": "localhost:3000/e1UICpNCNv5J5Y_"
+    },
+    {
+      "id": 38,
+      "name": "Zorka",
+      "maxQuarter": 3,
+      "newOffers": 14,
+      "growPercent": 48,
+      "geo": [
+        "DE",
+        "NL",
+        "CA",
+        "PT",
+        "NZ"
+      ],
+      "topOffer": "Spinsy",
+      "topOfferCategory": "CPA",
+      "topMonth": 7,
+      "bigmacVariation": 1,
+      "otherVariation": 1,
+      "managerId": 6,
+      "hash": "localhost:3000/OYW4-PAIsBQ-Wjc"
+    },
+    {
+      "id": 39,
+      "name": "Шевчук",
+      "maxQuarter": 1,
+      "newOffers": 1,
+      "growPercent": 506,
+      "geo": [
+        "DE",
+        "RO",
+        "SE"
+      ],
+      "topOffer": "Verde Casino",
+      "topOfferCategory": "ASO",
+      "topMonth": 1,
+      "bigmacVariation": 3,
+      "otherVariation": 3,
+      "managerId": 7,
+      "hash": "localhost:3000/cPXB-5etMH-y_le"
+    },
+    {
+      "id": 40,
+      "name": "Fake",
+      "maxQuarter": 3,
+      "newOffers": 7,
+      "growPercent": 45,
+      "geo": [
+        "ES",
+        "IN",
+        "FI"
+      ],
+      "topOffer": "shhhhhh",
+      "topOfferCategory": "shhh",
+      "topMonth": 9,
+      "bigmacVariation": 3,
+      "otherVariation": 1,
+      "managerId": 3,
+      "hash": null
+    }
+  ],
+  "offers": [],
+  "geo": [
+    []
+  ]
+}

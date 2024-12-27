@@ -1,0 +1,1496 @@
+{
+  "cards": [
+    {
+      "text": {
+        "en": [
+          "You ATE in the first quarter! <br />Powerful start to the season!",
+          "The second quarter was on fire! <br />Spring is truly inspiring.",
+          "Wow, did you see the third quarter? <br />What a packed season!",
+          "Now that's a ramp-up <br />in the fourth quarter! <br />Smooth roll into 2025!"
+        ],
+        "ru": [
+          "Первый квартал самый топ! <br />Мощно открыли сезон!",
+          "Во втором квартале была жара. <br />Весна вдохновляет!",
+          "Wow, вы видели третий квартал? <br />Урожайный выдался сезон!",
+          "Вот это разгон <br />в четвертом квартале! <br />Красивый заход в 2025 год!"
+        ],
+        "ua": [
+          "Перший квартал самий топ! <br />Потужно відкрили сезон!",
+          "У другому кварталі було гаряче <br />Весна надихає!",
+          "Wow, ви бачили третій квартал? <br />Врожайний видався сезон!",
+          "Оце розгін <br />у четвертому кварталі! <br />Красивий захід у 2025 рік!"
+        ]
+      },
+      "content": [
+        "<div class='card-1__img-1'></div>",
+        "<div class='card-1__img-2'></div><div class='card-1__like'></div>",
+        "<div class='card-1__img-3'></div>",
+        "<div class='card-1__car'></div>"
+      ]
+    },
+    {
+      "text": {
+        "en": [
+          "Ready to crank it up <br />for 2025?",
+          "On the fast track <br />to the top!",
+          "That’s a breakthrough!"
+        ],
+        "ru": [
+          "Втопим в 2025 году?",
+          "Уверенно двигаемся <br />к вершинам!",
+          "Это прорыв!"
+        ],
+        "ua": [
+          "Запалимо в 2025 році?",
+          "Упевнено рухаємося <br />до вершин!",
+          "Це прорив!"
+        ]
+      },
+      "content": [
+        "<div class='card-2__clouds'></div><div class='card-2__img-1'></div>",
+        "<div class='card-2__clouds'></div><div class='card-2__img-2'></div>",
+        "<div class='card-2__clouds'></div><div class='card-2__img-3'></div>"
+      ]
+    },
+    {
+      "text": {
+        "en": [
+          "Quality over <br />quantity, always",
+          "Nailed that <br />perfect balance",
+          "Wow, that was awesome <br />True innovators!"
+        ],
+        "ru": [
+          "Главное — не количество, <br />а качество",
+          "Идеальный баланс",
+          "Wow, это было круто <br />Экспериментатор!"
+        ],
+        "ua": [
+          "Головне — не кількість, <br />а якість",
+          "Ідеальний баланс",
+          "Wow, це було круто <br />Експериментатори!"
+        ]
+      }
+    },
+    {
+      "FR": {
+        "en": [
+          "France"
+        ],
+        "ru": [
+          "Франция"
+        ],
+        "ua": [
+          "Франція"
+        ]
+      },
+      "AU": {
+        "en": [
+          "Australia"
+        ],
+        "ru": [
+          "Австралия"
+        ],
+        "ua": [
+          "Австралія"
+        ]
+      },
+      "BE": {
+        "en": [
+          "Belgium"
+        ],
+        "ru": [
+          "Бельгия"
+        ],
+        "ua": [
+          "Бельгія"
+        ]
+      },
+      "CH": {
+        "en": [
+          "Switzerland"
+        ],
+        "ru": [
+          "Швейцария"
+        ],
+        "ua": [
+          "Швейцарія"
+        ]
+      },
+      "GB": {
+        "en": [
+          "United Kingdom"
+        ],
+        "ru": [
+          "Британия"
+        ],
+        "ua": [
+          "Британія"
+        ]
+      },
+      "GR": {
+        "en": [
+          "Greece"
+        ],
+        "ru": [
+          "Греция"
+        ],
+        "ua": [
+          "Греція"
+        ]
+      },
+      "DE": {
+        "en": [
+          "Germany"
+        ],
+        "ru": [
+          "Германия"
+        ],
+        "ua": [
+          "Німеччина"
+        ]
+      },
+      "NL": {
+        "en": [
+          "Netherlands"
+        ],
+        "ru": [
+          "Нидерланды"
+        ],
+        "ua": [
+          "Нідерланди"
+        ]
+      },
+      "IE": {
+        "en": [
+          "Ireland"
+        ],
+        "ru": [
+          "Ирландия"
+        ],
+        "ua": [
+          "Ірландія"
+        ]
+      },
+      "MZ": {
+        "en": [
+          "Mozambique"
+        ],
+        "ru": [
+          "Мозамбик"
+        ],
+        "ua": [
+          "Мозамбік"
+        ]
+      },
+      "CG": {
+        "en": [
+          "Congo"
+        ],
+        "ru": [
+          "Конго"
+        ],
+        "ua": [
+          "Конго"
+        ]
+      },
+      "CD": {
+        "en": [
+          "DR of the Congo"
+        ],
+        "ru": [
+          "ДР Конго"
+        ],
+        "ua": [
+          "ДР Конго"
+        ]
+      },
+      "PH": {
+        "en": [
+          "Philippines"
+        ],
+        "ru": [
+          "Филиппины"
+        ],
+        "ua": [
+          "Філіппіни"
+        ]
+      },
+      "TR": {
+        "en": [
+          "Turkey"
+        ],
+        "ru": [
+          "Турция"
+        ],
+        "ua": [
+          "Туреччина"
+        ]
+      },
+      "PL": {
+        "en": [
+          "Poland"
+        ],
+        "ru": [
+          "Польша"
+        ],
+        "ua": [
+          "Польща"
+        ]
+      },
+      "IN": {
+        "en": [
+          "India"
+        ],
+        "ru": [
+          "Индия"
+        ],
+        "ua": [
+          "Індія"
+        ]
+      },
+      "IT": {
+        "en": [
+          "Italy"
+        ],
+        "ru": [
+          "Италия"
+        ],
+        "ua": [
+          "Італія"
+        ]
+      },
+      "ES": {
+        "en": [
+          "Spain"
+        ],
+        "ru": [
+          "Испания"
+        ],
+        "ua": [
+          "Іспанія"
+        ]
+      },
+      "CZ": {
+        "en": [
+          "Czech Republic"
+        ],
+        "ru": [
+          "Чехия"
+        ],
+        "ua": [
+          "Чехія"
+        ]
+      },
+      "SE": {
+        "en": [
+          "Sweden"
+        ],
+        "ru": [
+          "Швеция"
+        ],
+        "ua": [
+          "Швеція"
+        ]
+      },
+      "AZ": {
+        "en": [
+          "Azerbaijan"
+        ],
+        "ru": [
+          "Азербайджан"
+        ],
+        "ua": [
+          "Азербайджан"
+        ]
+      },
+      "AE": {
+        "en": [
+          "UAE"
+        ],
+        "ru": [
+          "ОАЭ"
+        ],
+        "ua": [
+          "ОАЕ"
+        ]
+      },
+      "AT": {
+        "en": [
+          "Austria"
+        ],
+        "ru": [
+          "Австрия"
+        ],
+        "ua": [
+          "Австрія"
+        ]
+      },
+      "DK": {
+        "en": [
+          "Denmark"
+        ],
+        "ru": [
+          "Дания"
+        ],
+        "ua": [
+          "Данія"
+        ]
+      },
+      "BR": {
+        "en": [
+          "Brazil"
+        ],
+        "ru": [
+          "Бразилия"
+        ],
+        "ua": [
+          "Бразилія"
+        ]
+      },
+      "CA": {
+        "en": [
+          "Canada"
+        ],
+        "ru": [
+          "Канада"
+        ],
+        "ua": [
+          "Канада"
+        ]
+      },
+      "PE": {
+        "en": [
+          "Peru"
+        ],
+        "ru": [
+          "Перу"
+        ],
+        "ua": [
+          "Перу"
+        ]
+      },
+      "MX": {
+        "en": [
+          "Mexico"
+        ],
+        "ru": [
+          "Мексика"
+        ],
+        "ua": [
+          "Мексика"
+        ]
+      },
+      "CO": {
+        "en": [
+          "Colombia"
+        ],
+        "ru": [
+          "Колумбия"
+        ],
+        "ua": [
+          "Колумбія"
+        ]
+      },
+      "CL": {
+        "en": [
+          "Chile"
+        ],
+        "ru": [
+          "Чили"
+        ],
+        "ua": [
+          "Чилі"
+        ]
+      },
+      "EG": {
+        "en": [
+          "Egypt"
+        ],
+        "ru": [
+          "Египет"
+        ],
+        "ua": [
+          "Єгипет"
+        ]
+      },
+      "VN": {
+        "en": [
+          "Vietnam"
+        ],
+        "ru": [
+          "Вьетнам"
+        ],
+        "ua": [
+          "Вʼєтнам"
+        ]
+      },
+      "ID": {
+        "en": [
+          "Indonesia"
+        ],
+        "ru": [
+          "Индонезия"
+        ],
+        "ua": [
+          "Індонезія"
+        ]
+      },
+      "SN": {
+        "en": [
+          "Senegal"
+        ],
+        "ru": [
+          "Сенегал"
+        ],
+        "ua": [
+          "Сенегал"
+        ]
+      },
+      "PT": {
+        "en": [
+          "Portugal"
+        ],
+        "ru": [
+          "Португалия"
+        ],
+        "ua": [
+          "Португалія"
+        ]
+      },
+      "MW": {
+        "en": [
+          "Malawi"
+        ],
+        "ru": [
+          "Малави"
+        ],
+        "ua": [
+          "Малаві"
+        ]
+      },
+      "MY": {
+        "en": [
+          "Malaysia"
+        ],
+        "ru": [
+          "Малайзия"
+        ],
+        "ua": [
+          "Малайзія"
+        ]
+      },
+      "KG": {
+        "en": [
+          "Kyrgyzstan"
+        ],
+        "ru": [
+          "Киргизия"
+        ],
+        "ua": [
+          "Киргизстан"
+        ]
+      },
+      "PK": {
+        "en": [
+          "Pakistan"
+        ],
+        "ru": [
+          "Пакистан"
+        ],
+        "ua": [
+          "Пакистан"
+        ]
+      },
+      "KR": {
+        "en": [
+          "South Korea"
+        ],
+        "ru": [
+          "Южная Корея"
+        ],
+        "ua": [
+          "Південна Корея"
+        ]
+      },
+      "MA": {
+        "en": [
+          "Morocco"
+        ],
+        "ru": [
+          "Марокко"
+        ],
+        "ua": [
+          "Марокко"
+        ]
+      },
+      "FI": {
+        "en": [
+          "Finland"
+        ],
+        "ru": [
+          "Финляндия"
+        ],
+        "ua": [
+          "Фінляндія"
+        ]
+      },
+      "BY": {
+        "en": [
+          "Belarus"
+        ],
+        "ru": [
+          "Беларусь"
+        ],
+        "ua": [
+          "Білорусь"
+        ]
+      },
+      "UZ": {
+        "en": [
+          "Uzbekistan"
+        ],
+        "ru": [
+          "Узбекистан"
+        ],
+        "ua": [
+          "Узбекистан"
+        ]
+      },
+      "ZA": {
+        "en": [
+          "South Africa"
+        ],
+        "ru": [
+          "ЮАР"
+        ],
+        "ua": [
+          "ЮАР"
+        ]
+      },
+      "NZ": {
+        "en": [
+          "New Zealand"
+        ],
+        "ru": [
+          "Н Зеландия"
+        ],
+        "ua": [
+          "Н Зеландія"
+        ]
+      },
+      "UA": {
+        "en": [
+          "Ukraine"
+        ],
+        "ru": [
+          "Украина"
+        ],
+        "ua": [
+          "Україна"
+        ]
+      },
+      "SA": {
+        "en": [
+          "Saudi Arabia"
+        ],
+        "ru": [
+          "Саудовская Аравия"
+        ],
+        "ua": [
+          "Саудівська Аравія"
+        ]
+      },
+      "LT": {
+        "en": [
+          "Lithuania"
+        ],
+        "ru": [
+          "Литва"
+        ],
+        "ua": [
+          "Литва"
+        ]
+      },
+      "BD": {
+        "en": [
+          "Bangladesh"
+        ],
+        "ru": [
+          "Бангладеш"
+        ],
+        "ua": [
+          "Бангладеш"
+        ]
+      },
+      "CM": {
+        "en": [
+          "Cameroon"
+        ],
+        "ru": [
+          "Камерун"
+        ],
+        "ua": [
+          "Камерун"
+        ]
+      },
+      "RO": {
+        "en": [
+          "Romania"
+        ],
+        "ru": [
+          "Румыния"
+        ],
+        "ua": [
+          "Румунія"
+        ]
+      }
+    },
+    {
+      "country": {
+        "FR": {
+          "en": {
+            "name": "France",
+            "text": "Oh là là, now that’s some serious profit!",
+            "content": "<div class='card-5__img-fr'></div>"
+          },
+          "ru": {
+            "name": "Франция",
+            "text": "О-ля-ля, вот это профит!",
+            "content": "<div class='card-5__img-fr'></div>"
+          },
+          "ua": {
+            "name": "Франція",
+            "text": "О-ля-ля, ось це профіт!",
+            "content": "<div class='card-5__img-fr'></div>"
+          }
+        },
+        "GR": {
+          "en": {
+            "name": "Greece",
+            "text": "Even Zeus is shocked",
+            "content": "<div class='card-5__img-gr'></div>"
+          },
+          "ru": {
+            "name": "Греция",
+            "text": "Зевс в шоке",
+            "content": "<div class='card-5__img-gr'></div>"
+          },
+          "ua": {
+            "name": "Греція",
+            "text": "Зевс у шоці",
+            "content": "<div class='card-5__img-gr'></div>"
+          }
+        },
+        "GB": {
+          "en": {
+            "name": "Great Britain",
+            "text": "You are killing it, sir!",
+            "content": "<div class='card-5__img-gb'></div>"
+          },
+          "ru": {
+            "name": "Британия",
+            "text": "Вы топ, сэр!",
+            "content": "<div class='card-5__img-gb'></div>"
+          },
+          "ua": {
+            "name": "Британія",
+            "text": "Ви топ, сер!",
+            "content": "<div class='card-5__img-gb'></div>"
+          }
+        },
+        "AE": {
+          "en": {
+            "name": "ОАЭ",
+            "text": "Growing faster than skyscrapers",
+            "content": "<div class='card-5__img-ae'></div>"
+          },
+          "ru": {
+            "name": "ОАЭ",
+            "text": "Растете быстрее небоскребов",
+            "content": "<div class='card-5__img-ae'></div>"
+          },
+          "ua": {
+            "name": "ОАЭ",
+            "text": "Зростаєте швидше за хмарочоси",
+            "content": "<div class='card-5__img-ae'></div>"
+          }
+        },
+        "MZ": {
+          "en": {
+            "name": "Mozambique",
+            "text": "You’re burning it up!",
+            "content": "<div class='card-5__img-mz'></div>"
+          },
+          "ru": {
+            "name": "Мозамбик",
+            "text": "Жара!",
+            "content": "<div class='card-5__img-mz'></div>"
+          },
+          "ua": {
+            "name": "Мозамбік",
+            "text": "Спека!",
+            "content": "<div class='card-5__img-mz'></div>"
+          }
+        },
+        "TR": {
+          "en": {
+            "name": "Turkey",
+            "text": "Merhaba, success!",
+            "content": "<div class='card-5__img-tr'></div>"
+          },
+          "ru": {
+            "name": "Турция",
+            "text": "Мерхаба, успех!",
+            "content": "<div class='card-5__img-tr'></div>"
+          },
+          "ua": {
+            "name": "Туреччина",
+            "text": "Мерхаба, успіх!",
+            "content": "<div class='card-5__img-tr'></div>"
+          }
+        },
+        "ES": {
+          "en": {
+            "name": "Spain",
+            "text": "A glass of sangria to success!",
+            "content": "<div class='card-5__img-es'></div>"
+          },
+          "ru": {
+            "name": "Испания",
+            "text": "По бокалу сангрии за успех!",
+            "content": "<div class='card-5__img-es'></div>"
+          },
+          "ua": {
+            "name": "Іспанія",
+            "text": "По бокалу сангрії за успіх!",
+            "content": "<div class='card-5__img-es'></div>"
+          }
+        },
+        "BR": {
+          "en": {
+            "name": "Brazil",
+            "text": "Growing with the samba beat!",
+            "content": "<div class='card-5__img-br'></div>"
+          },
+          "ru": {
+            "name": "Бразилия",
+            "text": "Растете в ритме самбы!",
+            "content": "<div class='card-5__img-br'></div>"
+          },
+          "ua": {
+            "name": "Бразилія",
+            "text": "Зростаєте в ритмі самби!",
+            "content": "<div class='card-5__img-br'></div>"
+          }
+        },
+        "CZ": {
+          "en": {
+            "name": "Czechia",
+            "text": "A box of Krušovice for these fellas!",
+            "content": "<div class='card-5__img-cz'></div>"
+          },
+          "ru": {
+            "name": "Чехия",
+            "text": "Ящик “Крушовице” <br />этим господам!",
+            "content": "<div class='card-5__img-cz'></div>"
+          },
+          "ua": {
+            "name": "Чехія",
+            "text": "Ящик «Крушовіце» цим панам!",
+            "content": "<div class='card-5__img-cz'></div>"
+          }
+        },
+        "EG": {
+          "en": {
+            "name": "Египет",
+            "text": "Лара Крофт одобряет",
+            "content": "<div class='card-5__img-eg'></div>"
+          },
+          "ru": {
+            "name": "Egypt",
+            "text": "Lara Croft tips her hat!",
+            "content": "<div class='card-5__img-eg'></div>"
+          },
+          "ua": {
+            "name": "Єгипет",
+            "text": "Лара Крофт схвалює",
+            "content": "<div class='card-5__img-eg'></div>"
+          }
+        },
+        "CA": {
+          "en": {
+            "name": "Canada",
+            "text": "That's awesome, eh?",
+            "content": "<div class='card-5__img-ca'></div>"
+          },
+          "ru": {
+            "name": "Канада",
+            "text": "Pretty sweet, eh?",
+            "content": "<div class='card-5__img-ca'></div>"
+          },
+          "ua": {
+            "name": "Канада",
+            "text": "That's awesome, eh?",
+            "content": "<div class='card-5__img-ca'></div>"
+          }
+        },
+        "IN": {
+          "en": {
+            "name": "India",
+            "text": "Everybody dance now!",
+            "content": "<div class='card-5__img-in'></div>"
+          },
+          "ru": {
+            "name": "Индия",
+            "text": "Танцуют все!",
+            "content": "<div class='card-5__img-in'></div>"
+          },
+          "ua": {
+            "name": "Індія",
+            "text": "Танцюють усі!",
+            "content": "<div class='card-5__img-in'></div>"
+          }
+        },
+        "AU": {
+          "en": {
+            "name": "Australia",
+            "text": "¡qoɾ ʇɐəɹƃ",
+            "content": "<div class='card-5__img-au'></div>"
+          },
+          "ru": {
+            "name": "Австралия",
+            "text": "¡ɯɐɯqvʎεǝd ņıqнҺиvɯО",
+            "content": "<div class='card-5__img-au'></div>"
+          },
+          "ua": {
+            "name": "Австралія",
+            "text": "¡ɯɐɯqvʎεǝd n̯иʚоɓʎҺ",
+            "content": "<div class='card-5__img-au'></div>"
+          }
+        },
+        "DE": {
+          "en": {
+            "name": "Germany",
+            "text": "Das ist fantastisch!",
+            "content": "<div class='card-5__img-de'></div>"
+          },
+          "ru": {
+            "name": "Германия",
+            "text": "Das ist fantastisch!",
+            "content": "<div class='card-5__img-de'></div>"
+          },
+          "ua": {
+            "name": "Німеччина",
+            "text": "Das ist fantastisch!",
+            "content": "<div class='card-5__img-de'></div>"
+          }
+        },
+        "ZA": {
+          "en": {
+            "name": "South Africa",
+            "text": "Brilliant work!",
+            "content": "<div class='card-5__img-za'></div>"
+          },
+          "ru": {
+            "name": "ЮАР",
+            "text": "Не гео, а бриллиант!",
+            "content": "<div class='card-5__img-za'></div>"
+          },
+          "ua": {
+            "name": "ПАР",
+            "text": "Не гео, а діамант!",
+            "content": "<div class='card-5__img-za'></div>"
+          }
+        },
+        "IT": {
+          "en": {
+            "name": "Italy",
+            "text": "Bellissimo!",
+            "content": "<div class='card-5__img-it'></div>"
+          },
+          "ru": {
+            "name": "Италия",
+            "text": "Белиссимо!",
+            "content": "<div class='card-5__img-it'></div>"
+          },
+          "ua": {
+            "name": "Італія",
+            "text": "Белісімо!",
+            "content": "<div class='card-5__img-it'></div>"
+          }
+        },
+        "KR": {
+          "en": {
+            "name": "South Korea",
+            "text": "Going full Gangnam Style!",
+            "content": "<div class='card-5__img-kr'></div>"
+          },
+          "ru": {
+            "name": "Южная Корея",
+            "text": "Полный Gangnam Style!",
+            "content": "<div class='card-5__img-kr'></div>"
+          },
+          "ua": {
+            "name": "Південна Корея",
+            "text": "Повний Gangnam Style!",
+            "content": "<div class='card-5__img-kr'></div>"
+          }
+        },
+        "ID": {
+          "en": {
+            "name": "Indonesia",
+            "text": "The island welcomes you",
+            "content": "<div class='card-5__img-id'></div>"
+          },
+          "ru": {
+            "name": "Индонезия",
+            "text": "Остров принял!",
+            "content": "<div class='card-5__img-id'></div>"
+          },
+          "ua": {
+            "name": "Індонезія",
+            "text": "Острів прийняв!",
+            "content": "<div class='card-5__img-id'></div>"
+          }
+        },
+        "SE": {
+          "en": {
+            "name": "Sweden",
+            "text": "Deserve a Nobel in profit!",
+            "content": "<div class='card-5__img-se'></div>"
+          },
+          "ru": {
+            "name": "Швеция",
+            "text": "Заслужили Нобелевскую <br />премию по профиту!",
+            "content": "<div class='card-5__img-se'></div>"
+          },
+          "ua": {
+            "name": "Швеція",
+            "text": "Заслужили Нобелівську премію з профіту",
+            "content": "<div class='card-5__img-se'></div>"
+          }
+        },
+        "FI": {
+          "en": {
+            "name": "Finland",
+            "text": "Hotter than a sauna!",
+            "content": "<div class='card-5__img-fi'></div>"
+          },
+          "ru": {
+            "name": "Финляндия",
+            "text": "Горячее, чем в сауне!",
+            "content": "<div class='card-5__img-fi'></div>"
+          },
+          "ua": {
+            "name": "Финляндия",
+            "text": "Гарячіше, ніж у сауні!",
+            "content": "<div class='card-5__img-fi'></div>"
+          }
+        },
+        "UA": {
+          "en": {
+            "name": "Ukraine",
+            "text": "UAmazing result!",
+            "content": "<div class='card-5__img-ua'></div>"
+          },
+          "ru": {
+            "name": "Украина",
+            "text": "UAу, чудовий результат!",
+            "content": "<div class='card-5__img-ua'></div>"
+          },
+          "ua": {
+            "name": "Україна",
+            "text": "UAу, чудовий результат!",
+            "content": "<div class='card-5__img-ua'></div>"
+          }
+        }
+      }
+    },
+    {},
+    {
+      "months": {
+        "en": [
+          "January",
+          "February",
+          "March",
+          "April",
+          "May",
+          "June",
+          "July",
+          "August",
+          "September",
+          "October",
+          "November",
+          "December"
+        ],
+        "ru": [
+          "Январь",
+          "Февраль",
+          "Март",
+          "Апрель",
+          "Май",
+          "Июнь",
+          "Июль",
+          "Август",
+          "Сентябрь",
+          "Октябрь",
+          "Ноябрь",
+          "Декабрь"
+        ],
+        "ua": [
+          "Січень",
+          "Лютий",
+          "Березень",
+          "Квітень",
+          "Травень",
+          "Червень",
+          "Липень",
+          "Серпень",
+          "Вересень",
+          "Жовтень",
+          "Листопад",
+          "Грудень"
+        ]
+      },
+      "content": [
+        "<div class='card-7__img-1'></div>",
+        "<div class='card-7__img-2'></div>",
+        "<div class='card-7__img-3'></div>",
+        "<div class='card-7__img-4'></div>"
+      ]
+    },
+    {
+      "text1": "Вооот столько <br />бигмаков",
+      "text2": "или...",
+      "slide1": [
+        {
+          "content": "<div class='card-8__img card-8__img-1-1'></div><div class='card-8__img card-8__img-1-1-stars'></div>"
+        },
+        {
+          "content": "<div class='card-8__img card-8__img-1-2'></div><div class='card-8__img card-8__img-1-2-stars'></div>"
+        },
+        {
+          "content": "<div class='card-8__img card-8__img-1-3'></div><div class='card-8__img card-8__img-1-3-stars'></div>"
+        }
+      ],
+      "slide2": [
+        {
+          "en": {
+            "text": "Rich Bitch ticket  <br />to the BIG Conference"
+          },
+          "ru": {
+            "text": "Билеты Rich Bitch <br />на BIG Conference"
+          },
+          "ua": {
+            "text": "Квитки Rich Bitch  <br />на BIG Conference"
+          },
+          "content": "<div class='card-8__img card-8__img-2-1'></div></div><div class='card-8__img card-8__img-2-1-stars'></div>"
+        },
+        {
+          "en": {
+            "text": "A giant chunk <br />of Tesla"
+          },
+          "ru": {
+            "text": "Здоровенный кусок <br />Теслы"
+          },
+          "ua": {
+            "text": "Величезний шматок <br />«Тесли»"
+          },
+          "content": "<div class='card-8__img card-8__img-2-2'></div></div><div class='card-8__img card-8__img-2-2-stars'></div>"
+        },
+        {
+          "en": {
+            "text": "Personal musical record <br />with a symphonic <br />orchestra"
+          },
+          "ru": {
+            "text": "Персональная запись <br />с симфоническим <br />оркестром"
+          },
+          "ua": {
+            "text": "Персональний запис <br />із симфонічним <br />оркестром"
+          },
+          "content": "<div class='card-8__img card-8__img-2-3'></div></div><div class='card-8__img card-8__img-2-3-stars'></div>"
+        },
+        {
+          "en": {
+            "text": "An airplane wing"
+          },
+          "ru": {
+            "text": "Крыло самолета"
+          },
+          "ua": {
+            "text": "Крило літака"
+          },
+          "content": "<div class='card-8__img card-8__img-2-4'></div></div><div class='card-8__img card-8__img-2-4-stars'></div>"
+        },
+        {
+          "en": {
+            "text": "Antimatter <br />molecules"
+          },
+          "ru": {
+            "text": "Молекулы <br />антивещества"
+          },
+          "ua": {
+            "text": "Молекули <br />антиречовини"
+          },
+          "content": "<div class='card-8__img card-8__img-2-5'></div></div><div class='card-8__img card-8__img-2-5-stars'></div>"
+        }
+      ]
+    },
+    {
+      "managers": [
+        {
+          "en": {
+            "name": "Vera",
+            "skill": "Empathy",
+            "text": "To work with an affiliate <br />you have to think <br />like an affiliate"
+          },
+          "ru": {
+            "name": "ВЕРА",
+            "skill": "Эмпатия",
+            "text": "Чтобы работать <br />с вебмастером, нужно <br />думать, как вебмастер"
+          },
+          "ua": {
+            "name": "Віра",
+            "skill": "Емпатія",
+            "text": "Щоб працювати <br />з вебмайстром, потрібно думати <br />як вебмайстер"
+          },
+          "content": "<div class='card-9__img card-9__img-1'></div><span class='card-9__label'></span>"
+        },
+        {
+          "en": {
+            "name": "Ruslan",
+            "skill": "Negotiations",
+            "text": "Fun fact: Ruslan thinks <br />“couldn’t find a common <br />ground” is a myth"
+          },
+          "ru": {
+            "name": "РУСЛАН",
+            "skill": "Переговоры",
+            "text": "Интересный факт: для Руслана <br />выражение “не нашли общий <br />язык” лишено смысла"
+          },
+          "ua": {
+            "name": "Руслан",
+            "skill": "Перемовини",
+            "text": "Цікавий факт: для Руслана <br />вислів «не знайшли спільної мови» <br />позбавлений сенсу"
+          },
+          "content": "<div class='card-9__img card-9__img-2'></div><span class='card-9__label'></span>"
+        },
+        {
+          "en": {
+            "name": "Viet",
+            "skill": "Analytics",
+            "text": "Viet's best dream? <br />Analyzing partner <br />streams"
+          },
+          "ru": {
+            "name": "ВЬЕТ",
+            "skill": "Аналитика",
+            "text": "Лучший сон Вьета — <br />тот, где он анализирует <br />потоки партнеров"
+          },
+          "ua": {
+            "name": "В’єт",
+            "skill": "Аналітика",
+            "text": "Найкращий сон В’єта — <br />той, де він аналізує <br />потоки партнерів"
+          },
+          "content": "<div class='card-9__img card-9__img-3'></div><span class='card-9__label'></span>"
+        },
+        {
+          "en": {
+            "name": "Kate",
+            "skill": "Proactivity",
+            "text": "When you’re still <br />typing and the reply’s <br />already in"
+          },
+          "ru": {
+            "name": "КАТЯ",
+            "skill": "Проактивность",
+            "text": "Когда вы еще <br />не допечатали сообщение, <br />а вам уже ответили"
+          },
+          "ua": {
+            "name": "Катя",
+            "skill": "Проактивність",
+            "text": "Коли ви ще не додрукували <br />повідомлення, а вам <br />уже відповіли"
+          },
+          "content": "<div class='card-9__img card-9__img-4'></div><span class='card-9__label'></span>"
+        },
+        {
+          "en": {
+            "name": "Ruslan",
+            "skill": "Market knowledge",
+            "text": "Offers deals <br />you can’t miss"
+          },
+          "ru": {
+            "name": "РУСЛАН",
+            "skill": "Знание рынка",
+            "text": "Предлагает сделки, <br />от которых невозможно <br />отказаться"
+          },
+          "ua": {
+            "name": "Руслан",
+            "skill": "Знання ринку",
+            "text": "Пропонує угоди, <br />від яких неможливо <br />відмовитися"
+          },
+          "content": "<div class='card-9__img card-9__img-5'></div><span class='card-9__label'></span>"
+        },
+        {
+          "en": {
+            "name": "Vasilina",
+            "skill": "Perfectionism",
+            "text": "They say Vasilina <br />even has a “Perfection knows <br />no limits” tattoo"
+          },
+          "ru": {
+            "name": "ВАСИЛИНА",
+            "skill": "Перфекционизм",
+            "text": "Кажется, у Василины <br />даже есть тату “Perfection <br />knows no limits”"
+          },
+          "ua": {
+            "name": "Василина",
+            "skill": "Перфекціонізм",
+            "text": "Здається, у Василини <br />навіть є тату Perfection <br />knows no limits"
+          },
+          "content": "<div class='card-9__img card-9__img-6'></div><span class='card-9__label'></span>"
+        },
+        {
+          "en": {
+            "name": "Vadim",
+            "skill": "Expertise",
+            "text": "Did you know Vadim’s <br />got a Master’s <br />in gambling?"
+          },
+          "ru": {
+            "name": "ВАДИМ",
+            "skill": "Экспертность",
+            "text": "А вы знали, что у Вадима <br />есть Master’s Degree <br />по гемблингу?"
+          },
+          "ua": {
+            "name": "Вадим",
+            "skill": "Експертність",
+            "text": "А ви знали, що у Вадима <br />є Master Degree <br />з гемблінгу?"
+          },
+          "content": "<div class='card-9__img card-9__img-7'></div><span class='card-9__label'></span>"
+        },
+        {
+          "en": {
+            "name": "Alex",
+            "skill": "Market knowledge",
+            "text": "Offers deals <br />you can’t miss"
+          },
+          "ru": {
+            "name": "АЛЕКСЕЙ",
+            "skill": "Знание рынка",
+            "text": "Предлагает сделки, <br />от которых невозможно <br />отказаться"
+          },
+          "ua": {
+            "name": "Олексій",
+            "skill": "Знання ринку",
+            "text": "Пропонує угоди, <br />від яких неможливо <br />відмовитися"
+          },
+          "content": "<div class='card-9__img card-9__img-8'></div><span class='card-9__label'></span>"
+        }
+      ]
+    }
+  ],
+  "texts": {
+    "e": {
+      "en": [
+        ""
+      ],
+      "ru": [
+        ""
+      ],
+      "ua": [
+        ""
+      ]
+    },
+    "all": {
+      "en": [
+        "Share"
+      ],
+      "ru": [
+        "Поделиться"
+      ],
+      "ua": [
+        "Поділитися"
+      ]
+    },
+    "0": {
+      "en": [
+        "Hey! <br />We've put together <br />your 2024 wrap-up"
+      ],
+      "ru": [
+        "Привет! <br />Мы собрали <br />здесь хайлайты <br />вашего 2024"
+      ],
+      "ua": [
+        "Привіт, <br />ми зібрали хайлайти <br />вашого 2024 року!"
+      ]
+    },
+    "1": {
+      "en": [
+        "Your flow <br />in 2024"
+      ],
+      "ru": [
+        "Ваша динамика <br />в 2024 году"
+      ],
+      "ua": [
+        "Ваша динаміка <br />в 2024 році"
+      ]
+    },
+    "2": {
+      "en": [
+        "In 2024, <br />we grew stronger <br />together",
+        "compared <br />to 2023"
+      ],
+      "ru": [
+        "В 2024 <br />вы выросли <br />с нами",
+        "в сравнении <br />с 2023 годом"
+      ],
+      "ua": [
+        "У 2024 році <br />ви виросли <br />з нами",
+        "порівняно <br />з 2023 роком"
+      ]
+    },
+    "3": {
+      "en": [
+        "The number <br />of new offers you <br />launched this year"
+      ],
+      "ru": [
+        "Сколько <br />новых офферов <br />запустили за год"
+      ],
+      "ua": [
+        "Скільки нових <br />оферів запустили <br />за рік"
+      ]
+    },
+    "4": {
+      "en": [
+        "These geos <br />topped your charts"
+      ],
+      "ru": [
+        "Эти гео есть <br />в вашем топе"
+      ],
+      "ua": [
+        "Ці гео потрапили <br />до вашого топу"
+      ]
+    },
+    "5": {
+      "en": [
+        "Your most <br />profitable geo"
+      ],
+      "ru": [
+        "Самое <br />профитное гео"
+      ],
+      "ua": [
+        "Найбільш <br />профітне гео"
+      ]
+    },
+    "6": {
+      "en": [
+        "Your best 2024 <br />offer"
+      ],
+      "ru": [
+        "Лучший оффер <br />2024"
+      ],
+      "ua": [
+        "Найкращий офер <br />2024"
+      ]
+    },
+    "7": {
+      "en": [
+        "Your most <br />profitable month <br />in 2024",
+        "Remember what it was like?"
+      ],
+      "ru": [
+        "Самый <br />профитный месяц <br />в 2024 году",
+        "Помните, как это было?"
+      ],
+      "ua": [
+        "Найбільш <br />профітний місяць <br />у 2024 році",
+        "Пам’ятаєте, як це було?"
+      ]
+    },
+    "8": {
+      "en": [
+        "Things you could get <br />with your top <br />month’s profit",
+        "Soooo many <br />Big Macs",
+        "or..."
+      ],
+      "ru": [
+        "На что хватило бы <br />профита топового <br />месяца",
+        "Вооот столько <br />бигмаков",
+        "или..."
+      ],
+      "ua": [
+        "На що вистачило <br />б профіту топового <br />місяця",
+        "Ооось стільки <br />бігмаків",
+        "або..."
+      ]
+    },
+    "9": {
+      "en": [
+        "Your <br />manager’s top skill <br />in 2024"
+      ],
+      "ru": [
+        "Топ скилл вашего <br />менеджера <br />в 2024 году"
+      ],
+      "ua": [
+        "Топ скіл вашого <br />менеджера <br />в 2024 році"
+      ]
+    },
+    "10": {
+      "en": [
+        "Top offer",
+        "Top geo",
+        "Top month",
+        "Thanks for 2024! <br /><span>More to come!</span>"
+      ],
+      "ru": [
+        "Топ oффер",
+        "Топ гео",
+        "Топ месяц",
+        "Cпасибо за 2024! <br /><span>Дальше больше!</span>"
+      ],
+      "ua": [
+        "Топ oффер",
+        "Топ гео",
+        "Топ місяць",
+        "Дякуемо за 2024! <br /><span>Далі буде!</span>"
+      ]
+    },
+    "11": {
+      "en": [
+        "Be sure to <br />share your <br />wins with your <br />friends!"
+      ],
+      "ru": [
+        "Не забудьте <br />поделиться <br />своими <br />успехами <br />с друзьями!"
+      ],
+      "ua": [
+        "Не забудьте <br />поділитися <br />своїми <br />успіхами <br />з друзями!"
+      ]
+    },
+    "12": {
+      "en": [
+        "Ready to give <br />it a go in 2025?",
+        "Join Alfaleads"
+      ],
+      "ru": [
+        "Попробуем <br />в 2025 году?",
+        "Присоединиться <br />к Alfaleads"
+      ],
+      "ua": [
+        "Готові співпрацювати <br />у 2025 році?",
+        "Приєднатися <br />до Alfaleads"
+      ]
+    },
+    "13": {
+      "en": [
+        "Oops!",
+        "We couldn’t find your stats <br />to create your personalized <br />year wrapped!",
+        "Check out how <br />it looks for our <br />partners"
+      ],
+      "ru": [
+        "Oops!",
+        "Мы не нашли вашу статистику, <br />чтобы собрать персональные <br />итоги года!",
+        "Посмотрите <br />как они выглядят <br />у наших партнеров"
+      ],
+      "ua": [
+        "Oops!",
+        "Ми не знайшли вашу статистику, <br />щоб зібрати персональні <br />підсумки року!",
+        "Подивіться, <br />як вони виглядають <br />у наших партнерів"
+      ]
+    }
+  }
+}
